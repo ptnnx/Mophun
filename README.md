@@ -32,4 +32,21 @@ only compatible with 13 games, all of which use the 3D engine and were released 
 ### 4mophun 
 4mophun on Windows Mobile, you can run 4mophun on Windows through Microsoft's Device Emulator. Does not work with games that are locked (e.g. have a predefined IMEI recognition algorithm) or do not use the 3D engine.
 
+| Name        | Code name           | Status |
+| ------------- |:-------------:| -----:|
+| Anarchy Boxing 3D      | RealBoxing | Work |
+| Carmageddon 3D      | Carmageddon3D      |   Work |
+| Da Vinci Code | DVC      |    Work |
+| Fatal Arena | FA3D      |    Work |
+| Football Pro Contest | FootballPro      |    Work |
+| Golf Pro Contest | GolfProContest      |    Work with no sound + some backgrounds are 176x208|
+| Golf Pro Contest 2 | GolfProContest2      |    Work with no sound |
+| Lock'n Load: Rise of War | LocknLoad      |    Work |
+| Lock'n Load 2 | Exile      |    Work |
+| Lock'n Load: Combat Arena | ArenaTMN      |    Work but only multiplayer |
+| Martial Arts 3D | MA3D      |    Work |
+| Rally Pro Contest | RallyProContest      |    Work |
+| Worms World Party | WormsWWP      |    Not work with bad or missing certificate |
+
+
 ### mophun SDK
