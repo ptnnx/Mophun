@@ -57,23 +57,31 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 - Decryption only works if opening from the Open menu. However, compressed games are detected, but cannot run. Instead, an error saying "Compressed MPN file is not supported yet!" appears. Additionally, there may be some cases of crashing and the date, time, profile stuff is not properly set or selected
 
 # Mophun Games Launcher
-**Mophun Games Launcher** only compatible with 13 games, all of which use the 3D engine and were released for Symbian. The emulator is available for S60v3.
+**Mophun Games Launcher** only compatible with 15 games, all of which use the 3D engine and were released for Symbian.
+
+<code>
+English [1.0/1.02/1.04 unsigned/BinPDA - 7/8/9 series]
+Russian [Blaze mod - N-series Edition]
+Chinese [S60V3]
+</code>
 
 *Included games:*
 
-- Anarchy Boxing
-- Carmageddon
-- The Da Vinci Code
+- Anarchy Boxing 3D 1.60
+- Carmageddon 3D
+- The Da Vinci Code 1.0.2
 - Fatal Arena
-- Football Pro Contest
+- Football Pro Contest 1.0.4
 - Golf Pro Contest 1
-- Golf Pro Contest 2
+- Golf Pro Contest 2 1.0.1
+- Heli Attack 2
 - Joe ’s Treasure Quest
-- Lock ‘n Load Combat Arena
-- Lock ‘n Load Rise of War
-- Lock ‘n Load 2
-- Martial Arts 3D
-- Rally Pro Contest 3D
+- Lock ‘n Load Combat Arena 1.20.0
+- Lock ‘n Load Rise of War 1.01
+- Lock ‘n Load 2 1.1.0
+- Martial Arts 3D 1.0
+- Rally Pro Contest 3D 1.30
+- Worms World Party
 
 <code>EKA2L1/data/drives/e/data/mp/f0001092</code>
 
