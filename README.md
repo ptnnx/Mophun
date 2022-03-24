@@ -2,12 +2,22 @@
         <img height="60%" width="50%" src="mophun_logo.png"><br>
 </h1>
 
+Mophun was a C based SDK specialised to game development for mobile devices. It was made possible by Synergenix and it was coming with a free license to develop games.
+
+| Device | Models |
+| ------ | ------ |
+| Sony Ericsson | T230, T237, T238, T290 (T290a, T290i, T290c), T300, T302, T306, T310, T312, T316, T68, T68i, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910, Z208, Z300, Z600, Z608 |
+| Symbian | S60v1, S60v2, S60v3, UIQ2, UIQ3.x |
+| Windows Mobile |All Windows Mobile Smartphones running at a resolution of 176x220 or 240x320 |
+| Archos | Gmini 400, Gmini 402, PMA400, AV700 |
+| Medion, PAVO, TTPCom | MD95674 |
+| Voxtel | VS400 |
 # Mophun
 
-| Emulators                       | Version     | Latest Version | Active |
+| Emulators                       | Version     | Platforms | Active |
 | ------------------------------- | ---------- | -------------- | -------- |
-| mophun-mod <small>(tuxality-mod)</small> | 2.5.4 Alpha 2   | ![pic](Logos/Windows.png) | Yes (tuxality-mod only)
-| 4mophun          | 1.1 | ![pic](Logos/WinMobile.png) | No |
+| mophun-mod | 2.5.4 Alpha 2   | ![pic](Logos/Windows.png) | Yes (tuxality-mod) |
+| 4mophun    | 1.1 | ![pic](Logos/WinMobile.png) | No |
 | mophun games launcher  | 1.01/1.04 unsigned | ![pic](Logos/Symbian.png) | No |
 
 **mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos.
@@ -130,4 +140,5 @@ Chinese [S60V3]
 | ![Screenshots](Screenshots/21.png) | ![Screenshots](Screenshots/22.png) |
 
 ### mophun SDK
+Mophun was a mobile phone games SDK, it was released in 2002.
 [Mophun SDK 2.5](http://tuxality.net/public/MophunSDK_2_5.zip)
