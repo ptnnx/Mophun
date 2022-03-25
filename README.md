@@ -61,6 +61,38 @@ Some games give the message "Game Expired" at startup, which means that the game
 - Additional 3D features
 </details>
 
+<details>
+<summary><b>Compatibility</b></summary>
+
+* General
+
+— Due to the nature of the emulator, encrypted or compressed games do not boot; commercial games are encrypted, and games not designed for Mophun-specific phones (e.g. Symbian, Windows Mobile) are also compressed. In some cases, resources are compressed separately to the program.
+
+* Specific games
+
+— The background is incorrectly drawn as a grey flat texture in Hitman, and The Da Vinci Code 3D (except 1.0.1, other versions require vMusicInit) doesn't work, which can be fixed using a special version of the emulator, which has referred to within the community as the Hitman emulator. Neither version boots Exile due to not supporting vMusicInit in 2.5.4, and vSin in the special version.
+</details>
+
+<details>
+<summary><b>Modification</b></summary>
+
+* Mophun Decrypt
+
+— [Mophun Decrypt.exe](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecrypt.exe) created by JaGoTu, allows for Mophun programs to be decrypted and, from Mophun Decrypt 2, decompressed.
+
+* Mophun Decrypt GUI
+
+— A GUI, [Mophun Decrypt GUI](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecrypt_2.zip), created by childishbeat and written in Python, has been created to give the program a user interface. The latest version is 1.02, which predates Mophun Decrypt 2 and has not been updated to support decompression.
+
+* Mophun Decrypt GUI Changelogs
+
+— [1.02](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecryptGUI_v1.02.7z) - January 28, 2021 - Decreases .pyw size from 1,868 bytes to 1,713 bytes
+
+— [1.01](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecryptGUI_v1.01.7z) - January 27, 2021 - Decreases .pyw size from 2,595 bytes to 1,868 bytes
+
+— [1.0](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecryptGUI_v1.0.7z) - January 26, 2021 - Initial release
+</details>
+
 # mophun-mod (Tuxality mod)
 An unofficial mod, created by Tuxality, boots encrypted games without the need to decrypt them first by decrypting them on the fly.
 
@@ -162,3 +194,8 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specialised to game development for mobile devices. It was made possible by Synergenix and it was coming with a free license to develop games. Mophun SDK allowed creation of games for the SymbianOS platform without the burned of the complexity of SymbianOS.
 
 [Mophun SDK 2.5](http://tuxality.net/public/MophunSDK_2_5.zip)
+
+## Resources
+* [Mophun games gameplay](https://youtube.com/playlist?list=PLq278TxO0xWUsEDsDLiC6TQvDwzGbjb5k)
+* [Archos Gmini 402 support Mophun](https://youtube.com/watch?v=CdGAiMqbdtA)
+* [Lessphun is an implementation of the Mophun API for Cibyl](https://github.com/SimonKagstrom/lessphun)
