@@ -7,17 +7,17 @@
 </h1>
 <i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. Some phones and other devices support Mophun. Sony Ericsson phones, especially the Sony Ericsson T300 and Sony Ericsson T610, are the best known devices for running Mophun. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
 
-Some games give the message "Game Expired" at startup, which means that the game has expired. To play, you will have to change the date to the required one. You can find out with the Date Mophun program!
-
-# Mophun
-
 | Emulators                       | Version     | Platforms | Active |
 | ------------------------------- | ---------- | -------------- | -------- |
 | mophun-mod | 2.5.4 Alpha 2   | ![pic](Logos/Windows.png) | Yes (tuxality-mod) |
 | 4mophun    | 1.1 | ![pic](Logos/WinMobile.png) | No |
 | mophun games launcher  | 1.01/1.04 unsigned | ![pic](Logos/Symbian.png) | No |
 
-**mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos.An official emulator, designed for development and demos. As such, encrypted or compressed games do not boot. However, this has been worked around, both by decrypting the files and decompressing them (except for compressed resources), and modifying the emulator to perform decryption on the fly, albeit only when opening them via the Open menu. Exile is not known to work in any found version of the emulator. There are two versions of Mophun, 2D and 3D, for low-end and high-end handsets, and it's often used to provide embedded (pre-installed) games on mobile phone handsets.
+**mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos. As such, encrypted or compressed games do not boot. However, this has been worked around, both by decrypting the files and decompressing them (except for compressed resources), and modifying the emulator to perform decryption on the fly, albeit only when opening them via the Open menu. 
+
+— Exile is not known to work in any found version of the emulator.
+
+— There are two versions of Mophun, 2D and 3D, for low-end and high-end handsets, and it's often used to provide embedded (pre-installed) games on mobile phone handsets.
 
 <details>
 <summary><b>Changelogs</b></summary>
@@ -51,11 +51,11 @@ Some games give the message "Game Expired" at startup, which means that the game
 <details>
 <summary><b>Compatibility</b></summary>
 
-* General
+* <b>General</b>
 
 — Due to the nature of the emulator, encrypted or compressed games do not boot; commercial games are encrypted, and games not designed for Mophun-specific phones (e.g. Symbian, Windows Mobile) are also compressed. In some cases, resources are compressed separately to the program.
 
-* Specific games
+* <b>Specific games</b>
 
 — The background is incorrectly drawn as a grey flat texture in Hitman, and The Da Vinci Code 3D (except 1.0.1, other versions require vMusicInit) doesn't work, which can be fixed using a special version of the emulator, which has referred to within the community as the Hitman emulator. Neither version boots Exile due to not supporting vMusicInit in 2.5.4, and vSin in the special version.
 </details>
@@ -63,15 +63,21 @@ Some games give the message "Game Expired" at startup, which means that the game
 <details>
 <summary><b>Modification</b></summary>
 
-* Mophun Decrypt
+* <b>Game Expired</b>
+
+— Some games give the message "Game Expired" at startup, which means that the game has expired. To play, you will have to change the date to the required one. You can find out with the [Date Mophun](https://github.com/ptnn0/Mophun/raw/main/tools/DateMophun-eng.zip) program! Or open the *.mpn file with a text editor like editor or wordpad (on windows) and search for "00" until you find something like this " 20030417". That's the date you have to set your phone when you start the game, after the first succesfull start you can set your date to the old state.
+
+— Use a HEX-editor like UltraEdit All you have to do, is search for the date (like 2004 or 2003 or so) in the ASCII part of the screen and change it to any year in the future.., like 2999. Save it, reload it in the phone, and voil? the game won't expire in your lifetime.
+
+* <b>Mophun Decrypt</b>
 
 — [Mophun Decrypt.exe](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecrypt.exe) created by JaGoTu, allows for Mophun programs to be decrypted and, from Mophun Decrypt 2, decompressed.
 
-* Mophun Decrypt GUI
+* <b>Mophun Decrypt GUI</b>
 
 — A GUI, [Mophun Decrypt GUI](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecrypt_2.zip), created by childishbeat and written in Python, has been created to give the program a user interface. The latest version is 1.02, which predates Mophun Decrypt 2 and has not been updated to support decompression.
 
-* Mophun Decrypt GUI Changelogs
+* <b>Mophun Decrypt GUI Changelogs</b>
 
 — [1.02](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecryptGUI_v1.02.7z) - January 28, 2021 - Decreases .pyw size from 1,868 bytes to 1,713 bytes
 
@@ -112,7 +118,7 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 * Chinese [S60V3]
 </pre>
 
-*Included games:*
+*<ins><b>Included games:</ins></b>*
 
 - Anarchy Boxing 3D 1.60
 - Carmageddon 3D
@@ -142,13 +148,13 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 
 There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
 
-*Compatibility list:*
+*<b><ins>Compatibility list:</ins></b>*
 
 | Name        | Code name           | Status |
 | ------------- |:-------------:| -----:|
 | American Racing 3D      |  |  |
-| Anarchy Boxing 3D      | RealBoxing | Work |
-| Carmageddon 3D      | Carmageddon3D      |   Work |
+| Anarchy Boxing 3D (available via Bluetooth)     | RealBoxing | Work |
+| Carmageddon 3D (possible via Bluetooth)      | Carmageddon3D      |   Work |
 | Conflict Desert Storm | |
 | Conflict Global Storm | |
 | Da Vinci Code | DVC      |    Work |
@@ -159,10 +165,10 @@ There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
 | Heli Attack 2      |  |  |
 | Joes Treasure Quest 3D      |  |  |
 | Lock'n Load: Rise of War | LocknLoad      |    Work |
-| Lock'n Load 2 | Exile      |    Work |
-| Lock'n Load: Combat Arena | ArenaTMN      |    Work but only multiplayer |
+| Lock'n Load 2 (available via Bluetooth) | Exile      |    Work |
+| Lock'n Load: Combat Arena (available via Wi-Fi or GPRS) | ArenaTMN      |    Work but only multiplayer |
 | Martial Arts 3D | MA3D      |    Work |
-| Rally Pro Contest | RallyProContest      |    Work |
+| Rally Pro Contest (available via Bluetooth) | RallyProContest      |    Work |
 | Worms World Party | WormsWWP      |    Not work with bad or missing certificate |
 
 ### Screenshots
@@ -189,3 +195,4 @@ Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specia
 * [Mophun games gameplay](https://youtube.com/playlist?list=PLq278TxO0xWUsEDsDLiC6TQvDwzGbjb5k)
 * [Archos Gmini 402 support Mophun](https://youtube.com/watch?v=CdGAiMqbdtA)
 * [Lessphun is an implementation of the Mophun API for Cibyl](https://github.com/SimonKagstrom/lessphun)
+* [Mophun/GitHub](https://github.com/SimonKagstrom/old-projects/tree/master/mophun)
