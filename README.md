@@ -7,11 +7,11 @@
 </h1>
 <i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. Some phones and other devices support Mophun. Sony Ericsson phones, especially the Sony Ericsson T300 and Sony Ericsson T610, are the best known devices for running Mophun. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
 
-| Emulators                       | Version     | Platforms | Active |
-| ------------------------------- | ---------- | -------------- | -------- |
-| mophun-mod | 2.5.4 Alpha 2   | ![pic](Logos/Windows.png) | Yes (tuxality-mod) |
-| 4mophun    | 1.1 | ![pic](Logos/WinMobile.png) | No |
-| mophun games launcher  | 1.01/1.04 unsigned | ![pic](Logos/Symbian.png) | No |
+| Emulators  | Version    | Platform | Active |
+| ---------- | ---------- | --------- | ------ |
+| mophun-mod | 2.5.4 Alpha 2   | Windows | Yes (tuxality-mod) |
+| 4mophun    | 1.1 | Windows Mobile | No |
+| mophun games launcher  | 1.01/1.04 unsigned | Symbian | No |
 
 **mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos. As such, encrypted or compressed games do not boot. However, this has been worked around, both by decrypting the files and decompressing them (except for compressed resources), and modifying the emulator to perform decryption on the fly, albeit only when opening them via the Open menu. 
 
@@ -150,14 +150,14 @@ There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
 
 *<b><ins>Compatibility list:</ins></b>*
 
-| Name        | Code name           | Status |
-| ------------- |:-------------:| -----:|
+| Name        | Code name     | Status |
+| ----------- |:-------------:| -----:|
 | American Racing 3D      |  |  |
 | Anarchy Boxing 3D (available via Bluetooth)     | RealBoxing | Work |
 | Carmageddon 3D (possible via Bluetooth)      | Carmageddon3D      |   Work |
 | Conflict Desert Storm | |
 | Conflict Global Storm | |
-| Da Vinci Code | DVC      |    Work |
+| Da Vinci Code 3D | DVC      |    Work |
 | Fatal Arena 3D | FA3D      |    Work |
 | Football Pro Contest | FootballPro      |    Work |
 | Golf Pro Contest | GolfProContest      |    Work with no sound + some backgrounds are 176x208|
@@ -177,14 +177,20 @@ There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
 | --- | --- |
 | ![Screenshots](Screenshots/2.jpg) | ![Screenshots](Screenshots/3.jpg) |
 | ![Screenshots](Screenshots/6.jpg) | ![Screenshots](Screenshots/11.jpg) |
-| ![Screenshots](Screenshots/14.jpg) | ![Screenshots](Screenshots/4.jpg) |
+| ![Screenshots](Screenshots/14.jpg) | ![Screenshots](Screenshots/15.jpg) |
 | ![Screenshots](Screenshots/5.jpg) | ![Screenshots](Screenshots/7.jpg) |
 | ![Screenshots](Screenshots/8.jpg) | ![Screenshots](Screenshots/10.gif) |
 | ![Screenshots](Screenshots/12.jpg) | ![Screenshots](Screenshots/13.jpg) |
-| ![Screenshots](Screenshots/15.jpg) | ![Screenshots](Screenshots/16.gif) |
+| ![Screenshots](Screenshots/4.jpg) | ![Screenshots](Screenshots/16.gif) |
 | ![Screenshots](Screenshots/17.jpg) | ![Screenshots](Screenshots/18.jpg) |
 | ![Screenshots](Screenshots/19.gif) | ![Screenshots](Screenshots/20.jpg) |
 | ![Screenshots](Screenshots/21.png) | ![Screenshots](Screenshots/22.png) |
+| ![Screenshots](Screenshots/1.jpg) | ![Screenshots](Screenshots/23.jpg) |
+| ![Screenshots](Screenshots/24.jpg) | ![Screenshots](Screenshots/25.jpg) |
+| ![Screenshots](Screenshots/25.jpg) | ![Screenshots](Screenshots/26.jpg) |
+| ![Screenshots](Screenshots/27..jpg) | ![Screenshots](Screenshots/31.jpg) |
+| ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
+| ![Screenshots](Screenshots/30.jpg) |
 
 ### mophun SDK
 Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specialised to game development for mobile devices. It was made possible by Synergenix and it was coming with a free license to develop games. Mophun SDK allowed creation of games for the SymbianOS platform without the burned of the complexity of SymbianOS.
@@ -195,4 +201,4 @@ Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specia
 * [Mophun games gameplay](https://youtube.com/playlist?list=PLq278TxO0xWUsEDsDLiC6TQvDwzGbjb5k)
 * [Archos Gmini 402 support Mophun](https://youtube.com/watch?v=CdGAiMqbdtA)
 * [Lessphun is an implementation of the Mophun API for Cibyl](https://github.com/SimonKagstrom/lessphun)
-* [Mophun/GitHub](https://github.com/SimonKagstrom/old-projects/tree/master/mophun)
+* [Mophun/code](https://github.com/SimonKagstrom/old-projects/tree/master/mophun)
