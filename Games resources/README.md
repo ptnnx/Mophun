@@ -13,6 +13,8 @@
 * http://www.xmobila.narod.ru/game.html
 * http://www.set300.wz.cz/hry.html
 * http://terewong.com/mytoys0ab12.htm#16
+* http://forumponsel.mw.lt/mophun
+* http://www.pushlink.narod.ru/Games/a.htm
 
 <b>Packages</b>
 
@@ -35,10 +37,8 @@
 * https://web.archive.org/web/20071022043458/http://www.mobile-stars.ru/download/sony/mophun/
 * https://web.archive.org/web/20050407190910/http://www.8ung.at/is4u/
 * http://www.joescat.com/mobile/shiparcade.html
-* http://forumponsel.mw.lt/mophun
 * http://kowalczyktomasz.atspace.com/old_games.html
 * https://web.archive.org/web/20030423103452/http://www.mophungames.com/
-* http://www.pushlink.narod.ru/Games/a.htm
 * http://www.javaonthebrain.com/java/graviton/about.html
 * https://web.archive.org/web/20050307183435/http://www.rudy211.nsf.pl/gry.htm
 * https://web.archive.org/web/20080220111146/http://www.gemmyplanet.com/BrowseGame.jsp?gametype=All&phonemodel=2
