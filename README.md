@@ -9,11 +9,12 @@
 
 | Emulators  | Version    | Platform | Active |
 | ---------- | ---------- | --------- | ------ |
-| mophun-mod | 2.5.4 Alpha 2   | Windows | Yes (tuxality-mod) |
-| mophun games launcher  | 1.01/1.04 unsigned | Symbian | No |
+| Mophun-mod | 2.5.4 Alpha 2   | Windows | Yes (tuxality-mod) |
+| Mophun games launcher  | 1.01/1.04 unsigned | Symbian | No |
 | 4mophun    | 1.1 | Windows Mobile | No |
+| MoRePhun | POC | Windows | Yes |
 
-**mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos. As such, encrypted or compressed games do not boot. However, this has been worked around, both by decrypting the files and decompressing them (except for compressed resources), and modifying the emulator to perform decryption on the fly, albeit only when opening them via the Open menu. 
+**Mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos. As such, encrypted or compressed games do not boot. However, this has been worked around, both by decrypting the files and decompressing them (except for compressed resources), and modifying the emulator to perform decryption on the fly, albeit only when opening them via the Open menu. 
 
 — Exile is not known to work in any found version of the emulator.
 
@@ -86,7 +87,7 @@
 — [1.0](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/MophunDecryptGUI_v1.0.7z) - January 26, 2021 - Initial release
 </details>
 
-# mophun-mod (Tuxality mod)
+# Mophun-mod (Tuxality mod)
 An unofficial mod, created by Tuxality, boots encrypted games without the need to decrypt them first by decrypting them on the fly.
 
 <details>
@@ -146,7 +147,11 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 
 **4mophun** on Windows Mobile, you can run 4mophun on Windows through Microsoft's Device Emulator. Does not work with games that are locked (e.g. have a predefined IMEI recognition algorithm) or do not use the 3D engine.
 
-There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
+— There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
+
+— The exe file exists in two versions, mophunVGA.exe and mophunQVGA.exe. The first one is used to emulate games on smartphones with a display resolution of 176x220, but it also works on PocketPCs with a VGA display. The second file is intended for all devices with QVGA display 240x320. Interestingly, each program emulates the game a little differently, for example, the classic mophun.exe can't play background music on some games (only sounds work), I also came across games that it couldn't run at all (Carmageddon), and its stability was about slightly worse than the QVGA version of the emulator, which handled all the titles tested.
+
+— The emulator should work fine on all Smartphones and PocketPCs (eg Motorola MPx200 / 220, Qtek 8310, 8500, HTC MTeoR, Wizard, Universal or TyTN).
 
 *<b><ins>Compatibility list:</ins></b>*
 
@@ -192,7 +197,10 @@ There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
 | ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
 | ![Screenshots](Screenshots/30.jpg) |
 
-### mophun SDK
+# MoRePhun
+A new, open source emulator by Luca91. It is only a proof of concept, as only a few opcodes and a couple of SDK APIs are emulated, and there is no heap. There is sprite and input support, as well as support for the collision API. It is compatible with a few small homebrews. Luca91 mentions the SDK API handler needs to be better organized.
+
+## Mophun SDK
 Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specialised to game development for mobile devices. It was made possible by Synergenix and it was coming with a free license to develop games. Mophun SDK allowed creation of games for the SymbianOS platform without the burned of the complexity of SymbianOS.
 
 [Mophun SDK 2.5](http://tuxality.net/public/MophunSDK_2_5.zip)
