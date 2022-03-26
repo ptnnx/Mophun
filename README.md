@@ -10,8 +10,8 @@
 | Emulators  | Version    | Platform | Active |
 | ---------- | ---------- | --------- | ------ |
 | mophun-mod | 2.5.4 Alpha 2   | Windows | Yes (tuxality-mod) |
-| 4mophun    | 1.1 | Windows Mobile | No |
 | mophun games launcher  | 1.01/1.04 unsigned | Symbian | No |
+| 4mophun    | 1.1 | Windows Mobile | No |
 
 **mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos. As such, encrypted or compressed games do not boot. However, this has been worked around, both by decrypting the files and decompressing them (except for compressed resources), and modifying the emulator to perform decryption on the fly, albeit only when opening them via the Open menu. 
 
@@ -65,25 +65,25 @@
 
 * <b>Game Expired</b>
 
-— Some games give the message "Game Expired" at startup, which means that the game has expired. To play, you will have to change the date to the required one. You can find out with the [Date Mophun](https://github.com/ptnn0/Mophun/raw/main/tools/DateMophun-eng.zip) program! Or open the *.mpn file with a text editor like editor or wordpad (on windows) and search for "00" until you find something like this " 20030417". That's the date you have to set your phone when you start the game, after the first succesfull start you can set your date to the old state.
+— Some games give the message "Game Expired" at startup, which means that the game has expired. To play, you will have to change the date to the required one. You can find out with the [Date Mophun](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/DateMophun-eng.zip) program! Or open the *.mpn file with a text editor like editor or wordpad (on windows) and search for "00" until you find something like this " 20030417". That's the date you have to set your phone when you start the game, after the first succesfull start you can set your date to the old state.
 
 — Use a HEX-editor like UltraEdit All you have to do, is search for the date (like 2004 or 2003 or so) in the ASCII part of the screen and change it to any year in the future.., like 2999. Save it, reload it in the phone, and voil? the game won't expire in your lifetime.
 
 * <b>Mophun Decrypt</b>
 
-— [Mophun Decrypt.exe](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecrypt.exe) created by JaGoTu, allows for Mophun programs to be decrypted and, from Mophun Decrypt 2, decompressed.
+— [Mophun Decrypt.exe](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/MophunDecrypt.exe) created by JaGoTu, allows for Mophun programs to be decrypted and, from Mophun Decrypt 2, decompressed.
 
 * <b>Mophun Decrypt GUI</b>
 
-— A GUI, [Mophun Decrypt GUI](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecrypt_2.zip), created by childishbeat and written in Python, has been created to give the program a user interface. The latest version is 1.02, which predates Mophun Decrypt 2 and has not been updated to support decompression.
+— A GUI, [Mophun Decrypt GUI](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/MophunDecrypt_2.zip), created by childishbeat and written in Python, has been created to give the program a user interface. The latest version is 1.02, which predates Mophun Decrypt 2 and has not been updated to support decompression.
 
 * <b>Mophun Decrypt GUI Changelogs</b>
 
-— [1.02](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecryptGUI_v1.02.7z) - January 28, 2021 - Decreases .pyw size from 1,868 bytes to 1,713 bytes
+— [1.02](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/MophunDecryptGUI_v1.02.7z) - January 28, 2021 - Decreases .pyw size from 1,868 bytes to 1,713 bytes
 
-— [1.01](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecryptGUI_v1.01.7z) - January 27, 2021 - Decreases .pyw size from 2,595 bytes to 1,868 bytes
+— [1.01](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/MophunDecryptGUI_v1.01.7z) - January 27, 2021 - Decreases .pyw size from 2,595 bytes to 1,868 bytes
 
-— [1.0](https://github.com/ptnn0/Mophun/raw/main/tools/MophunDecryptGUI_v1.0.7z) - January 26, 2021 - Initial release
+— [1.0](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/MophunDecryptGUI_v1.0.7z) - January 26, 2021 - Initial release
 </details>
 
 # mophun-mod (Tuxality mod)
@@ -108,8 +108,8 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 
 | <ins><b>★ Installation ★</ins></b> |
 | ------------------------------------ |
-| † <b>First</b>: <i>Install the <code>mophun_games_launcher.sis</code></i> | 
-| † <b>Second</b>: <i>Move/Extract the <code>mp/f0001092</code> folder to <code>EKA2L1/data/drives/e/data/</code> paste here.</i> |
+| <b>Step 1</b>: <i>Install the <code>mophun_games_launcher.sis</code></i> | 
+| <b>Step 2</b>: <i>Move/Extract the <code>mp/f0001092</code> folder to <code>EKA2L1/data/drives/e/data/</code> paste here.</i> |
 
 <pre>
 
