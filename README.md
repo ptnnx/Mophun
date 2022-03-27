@@ -87,7 +87,8 @@
 — [1.0](https://github.com/ptnn0/Mophun/raw/main/Decrypt%20tools/MophunDecryptGUI_v1.0.7z) - January 26, 2021 - Initial release
 </details>
 
-# Mophun-mod (Tuxality mod)
+## Mophun-mod 
+<sup>(Tuxality mod)</sup>
 An unofficial mod, created by Tuxality, boots encrypted games without the need to decrypt them first by decrypting them on the fly.
 
 <details>
@@ -100,26 +101,11 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 - Decryption only works if opening from the Open menu. However, compressed games are detected, but cannot run. Instead, an error saying "Compressed MPN file is not supported yet!" appears. Additionally, there may be some cases of crashing and the date, time, profile stuff is not properly set or selected
 </details>
 
-# Mophun Games Launcher
+## Mophun Games Launcher
 **Mophun Games Launcher** only compatible with 16 games, all of which use the 3D engine and were released for Symbian.
 
-|  S1   |  S2  |
-| --- | --- |
-| ![Screenshots](Extra/MGL1.jpg) | ![Screenshots](Extra/MGL2.jpg) |
-
-| <ins><b>★ Installation ★</ins></b> |
-| ------------------------------------ |
-| <b>Step 1</b>: <i>Install the <code>mophun_games_launcher.sis</code></i> | 
-| <b>Step 2</b>: <i>Move/Extract the <code>mp/f0001092</code> folder to <code>EKA2L1/data/drives/e/data/</code> paste here.</i> |
-
-<pre>
-
-* English [1.0/1.02/1.04 unsigned/BinPDA - 7/8/9 series]
-* Russian [Blaze mod - N-series Edition]
-* Chinese [S60V3]
-</pre>
-
-*<ins><b>Included games:</ins></b>*
+<details>
+<summary><ins><b>Included games</ins></b></summary>
 
 - Anarchy Boxing 3D 1.60
 - Carmageddon 3D
@@ -139,7 +125,25 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 - Rally Pro Contest 3D 1.30
 - Worms World Party (Doesn't work)
 
-# 4mophun 
+</details>
+
+|  S1   |  S2  |
+| --- | --- |
+| ![Screenshots](Extra/MGL1.jpg) | ![Screenshots](Extra/MGL2.jpg) |
+
+| <ins><b>★ Installation ★</ins></b> |
+| ------------------------------------ |
+| <b>Step 1</b>: <i>Install the <code>mophun_games_launcher.sis</code></i> | 
+| <b>Step 2</b>: <i>Move/Extract the <code>mp/f0001092</code> folder to <code>EKA2L1/data/drives/e/data/</code> paste here.</i> |
+
+<pre>
+
+* English [1.0/1.02/1.04 unsigned/BinPDA - 7/8/9 series]
+* Russian [Blaze mod - N-series Edition]
+* Chinese [S60V3]
+</pre>
+
+## 4mophun 
 
 <h1 align="center">
         <img height="60%" width="50%" src="Extra/4mophun.jpg"><br>
@@ -153,7 +157,8 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 
 — The emulator should work fine on all Smartphones and PocketPCs (eg Motorola MPx200 / 220, Qtek 8310, 8500, HTC MTeoR, Wizard, Universal or TyTN).
 
-*<b><ins>Compatibility list:</ins></b>*
+<details>
+<summary><ins><b>Compatibility list</ins></b></summary>
 
 | Name        | Code name     | Status |
 | ----------- |:-------------:| -----:|
@@ -176,6 +181,8 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 | Rally Pro Contest (available via Bluetooth) | RallyProContest      |    Work |
 | Worms World Party | WormsWWP      |    Not work with bad or missing certificate |
 
+</details>
+
 ### Screenshots
 
 |     |     |
@@ -197,7 +204,7 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 | ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
 | ![Screenshots](Screenshots/30.jpg) |
 
-# MoRePhun
+## MoRePhun
 A new, open source emulator by Luca91. It is only a proof of concept, as only a few opcodes and a couple of SDK APIs are emulated, and there is no heap. There is sprite and input support, as well as support for the collision API. It is compatible with a few small homebrews. Luca91 mentions the SDK API handler needs to be better organized.
 
 ## Mophun SDK
