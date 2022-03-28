@@ -40,6 +40,8 @@
 | clubsonyericsson.com | No (Archived) | [Link](https://web.archive.org/web/20051204100232/http://www.clubsonyericsson.com/resources/games/t300/) |
 | mobiledia.com | No (Archived) | [Link](https://web.archive.org/web/20031203212528/http://www.mobiledia.com/phones/t310/index.html) |
 | funsat.ru | No (Archived) | [Link](https://web.archive.org/web/20090125124908/http://funsat.ru/area.php?cid=33) |
+| netova-plantaz.unas.cz | No (Archived) | [Link](https://web.archive.org/web/20121116113014/http://netova-plantaz.unas.cz/category/mophun-hry) |
+
 ## Packages for Symbian
 
 — .iSO file
@@ -58,6 +60,8 @@
 * https://4pda.to/forum/dl/post/234446/game_mpn.zip
 * https://4pda.to/forum/dl/post/55295/20_Smart_Land_Zip_.zip
 * https://4pda.to/forum/dl/post/21480081/mophunblazeemulator.sis
+* https://4pda.to/forum/dl/post/19021847/M_Emul+%281%29.zip
+* https://4pda.to/forum/dl/post/19021827/M_Emul2.rar
 
 — Mophun games
 
@@ -68,20 +72,11 @@
 
 — Mophun Games Launcher
 
-* 4shared
-
 * https://www.4shared.com/zip/CFiTu2EZce/mophun-emulato.html
 * https://www.4shared.com/file/29753253/a6eda16c/BiNPDA_Mophun_Games_Launcher_v.html?s=1
 * https://www.4shared.com/zip/Q291ILei/Mophun_for_s60v3.html
-
-
-* Mediafire
-
 * https://www.mediafire.com/file/xdsunfacpvy20n2/Mophun+Games+Launcher+++Game+For+EKA2L1+Android.zip/file
 * https://www.mediafire.com/file/wv4bmbsl8043dmr/Mophun_Launcher_EKA2L1_Symbian_Update.zip/file
-
-* Phoneky
-
 * https://phoneky.com/symbian-games/?id=z0z6930
 * https://phoneky.com/symbian-games/?id=z0z6931
 * https://phoneky.com/symbian-games/?id=z0z7431
@@ -90,15 +85,9 @@
 * https://phoneky.com/symbian-games/?id=z0z6863
 * https://phoneky.com/symbian-games/?id=z0z6864
 * https://phoneky.com/symbian-games/?id=z0z7092
-
-* Dertz
-
 * https://www.dertz.in/games/download-Carmageddon-for-s60v3-free-symbian-mobile-game-18342.htm
 * https://www.dertz.in/games/download-Mophuns-Launcher-S60v3-free-symbian-mobile-game-31193.htm
 * https://www.dertz.in/games/download-Lock-N-Load-2-3D-for-s60-3rd-free-symbian-mobile-game-17719.htm
-
-* Others
-
 * http://dodi21.jw.lt/Mophun%20launcher%20%20pack%20game%20s60v3
 * https://profismart.org/f-36373.php
 * http://best-nokia.net/soft/s9/emul2/1463-mophun-games-launcher-1.0-symbian-os-9.1.html
@@ -122,8 +111,12 @@
 * https://4allmobile.eu/viewtopic.php?t=8238
 * https://archive.org/details/mophun-game-pack
 * https://4pda.to/pages/go/?u=http%3A%2F%2Fboard.riot.ru%2F27-smartfony%2F8150-mophun-games-2.html&e=1067817
+* https://spac1.net/files/view/mophun-games-os9-1-9-3-33199274/
+* https://oldfag.top/downloads/?act=view&id=2015
+* http://www.freewebtown.com/novak20/downloads/Mophun.OS7.zip
+* http://www.freewebtown.com/novak20/downloads/Mophun.NG.zip
 
-* Mophun/SiS [4mophun/MGL]
+★ Mophun/SiS [4mophun/MGL]
 
 * http://dienpaulo.wap.sh/files/carmagedon%20mophune.sis
 * http://dienpaulo.wap.sh/files/davinci%20mophune.sis
@@ -137,7 +130,6 @@
 * http://dienpaulo.wap.sh/files/GolfPro.sis
 * http://dienpaulo.wap.sh/files/Boxing.sis
 * http://dienpaulo.wap.sh/files/mophune.sis
-
 * https://4pda.to/forum/dl/post/21342374/The_Da_Vinci_Code_by_BodyZ.sisx
 * https://4pda.to/forum/dl/post/21342373/Carmageddon.sisx
 * https://4pda.to/forum/dl/post/21342375/Lock%26%2339%3Bn%26%2339%3BLoad_2_by_BodyZ.sisx
@@ -145,9 +137,11 @@
 * https://4pda.to/forum/dl/post/51921/LocknLoad_Rise_of_War_QVGA.zip
 * https://4pda.to/forum/dl/post/51922/Carmageddon3D_QVGA.zip
 * https://4pda.to/forum/dl/post/51929/LNL2.zip
+* https://spac1.net/files/view/carmageddon-v-1-7-by-bodyz-57421950/
+* https://spac1.net/files/view/carmageddon3d-54735291/
+* https://cracksgurus.com/crack/Mophun-Anarchy-Boxing-3D-v1.60-N6600-N3620-N3660-SymbianOS-Retail-keygen-by-XiMPDA-bee53e9058.html
 
-
-* WWP
+★ WWP
 
 * https://nokia-n81.at.ua/load/igry/sis/worms_world_party_mophun_games_symbian_9/7-1-0-190
 * http://www.mediafire.com/file/mw1f5j01992nb6b/WWP-MOD-1.0.1-s60v3.sis.7z/file
@@ -157,6 +151,8 @@
 * https://4pda.to/forum/dl/post/139006/worm_world_party_mophun.rar
 * https://4pda.to/forum/dl/post/1226384/Worms_WP.zip
 * https://4pda.to/forum/dl/post/1053913/worms_world_party.sis
+* https://rugame.ml/#/sgames/3088
+* https://sefan.ru/loads/?l=games/240x320/sis/Worms_World_Party_Mophun_Games.zip&style=2&lan=en&new
 
 ### Dead sites (Archived)
 
