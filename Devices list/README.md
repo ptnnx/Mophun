@@ -1,10 +1,11 @@
 <details>
 <summary><b>GMINI_400</b></summary>
 
-![Device](GMINI_400.jpg)
+![Device](GMINI_400.png)
 
-The Gmini is a series of portable audio and video players released by Archos.
+— The Gmini is a series of portable audio and video players released by Archos.
 
+— The Gmini 400 can play 2D and 3D games using Mophun, a gaming platform designed primarily for cell phones. Out of the box, the Gmini 400 provides one full game and a few samples. To give you an idea of the games available and their quality,
 * <b>Release date</b>: August 31, 2004
 * <b>Storage</b>: 20GB
 * <b>Display</b>: 2.2 "LCD 220 x 176 pixels, 262,000 colors and TV output.
@@ -12,7 +13,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>GMINI_402</b></summary>
 
-![Device](GMINI_402.jpg)
+![Device](GMINI_402.png)
 
 — The player includes a built-in game engine, Mophun for 3D-style games.
 
@@ -21,7 +22,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>AV700</b></summary>
 
-![Device](AV700.jpg)
+![Device](AV700.png)
 
 — The AV700 comes in 40, 80 or 100 gigabyte models. The built-in screen resolution is 420 by 234.
 
@@ -32,7 +33,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>PMA400</b></summary>
 
-![Device](PMA400.jpg)
+![Device](PMA400.png)
 
 — The Archos PMA400 is a personal digital assistant (PDA) from Archos.
 
@@ -48,7 +49,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>VS400</b></summary>
 
-![Devices](VS400.jpg)
+![Devices](VS400.png)
 
 — The phone supports both Java and Mophun. There is only one game in the Mophun folder, this is the Xfinity arcade game, which is well known to owners of Sony Ericsson phones. It was not possible to find any other games for this phone, on the official website of Mophun there was no mention of support for Voxtel devices, let's hope that this is temporary.
 
@@ -57,7 +58,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>SX1</b></summary>
 
-![Devices](SX1.jpg)
+![Devices](SX1.png)
 
 — The Siemens SX1 is a GSM mobile phone running version 1.2 of the Series 60 platform for the Symbian OS.
 — Mophun 3D support
@@ -69,7 +70,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>SendoX</b></summary>
 
-![Devices](SendoX.jpg)
+![Devices](SendoX.png)
 
 — The Sendo X was Sendo's first Series 60 based "high-end" phone, developed after Sendo switched from the Microsoft to Symbian / Series 60 platforms.
 
@@ -81,7 +82,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>A920</b></summary>
 
-![Devices](A920.jpg)
+![Devices](A920.png)
 
 — Mophun 3D support
 
@@ -121,7 +122,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>N-Gage</b></summary>
 
-![Devices](NGage.jpg)
+![Devices](NGAGE.png)
 
 — Mophun pure support
 
@@ -135,7 +136,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>N-Gage QD</b></summary>
 
-![Devices](NGage_QD.jpg)
+![Devices](NGAGEQD.png)
 
 — Mophun pure support
 
@@ -148,7 +149,7 @@ The Gmini is a series of portable audio and video players released by Archos.
 <details>
 <summary><b>GameTrac Gizmondo</b></summary>
 
-![Devices](Gizmondo.jpg)
+![Devices](Gizmondo.png)
 
 — The Gizmondo is a handheld gaming console developed by Tiger Telematics. It was released in the UK, Sweden and the U.S
 
@@ -162,10 +163,23 @@ The Gmini is a series of portable audio and video players released by Archos.
 * <b>OS</b>: Windows CE
 </details>
 
+<details>
+<summary><b>T310</b></summary>
+
+![Devices](T310.png)
+</details>
+
+<details>
+<summary><b>T610</b></summary>
+
+![Devices](T610.png)
+
+</details>
+
 | Device | Models |
 | ------ | ------ |
-| Sony Ericsson | T68, T68i, T100, T226, T230, T237, T238, T290 (T290a, T290i, T290c), T300/R201, T302, T306, T310, T312, T316, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910, Z208, Z300, Z600, Z608 |
-| Nokia (Symbian S60/UIQ) | 3230, 3620, 3650, 3660, 6260, 6600, 6620, 6630, 6670, 6680, 6681, 6682, 7610, 7650, E60, E61, E70, N70, N71, N80, N-Gage*, N-Gage QD |
+| Sony Ericsson | T68, T68i, T100, T226, T230, T237, T238, T290 (T290a, T290i, T290c), T300/R201, T302, T306, T310, T312, T316, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910 (P910i), Z208, Z300, Z600, Z608 |
+| Nokia (Symbian S60/UIQ) | 3230, 3600, 3620, 3650, 3660, 6260, 6600, 6620, 6630, 6670, 6680, 6681, 6682, 7610, 7650, E60, E61, E70, N70, N71, N80, N-Gage*, N-Gage QD |
 | Windows Mobile | All Windows Mobile Smartphones running at a resolution of 176x220 or 240x320 |
 | Motorola | A920, A925, A1000 |
 | Siemens | SX1 |
