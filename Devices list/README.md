@@ -1,7 +1,7 @@
 <details>
 <summary><b>GMINI_400</b></summary>
 
-![Device](GMINI_400.png)
+<a href="#"><img src="GMINI_400.png" /></a>
 
 — The Gmini is a series of portable audio and video players released by Archos.
 
@@ -13,7 +13,7 @@
 <details>
 <summary><b>GMINI_402</b></summary>
 
-![Device](GMINI_402.png)
+<a href="#"><img src="GMINI_402.png" /></a>
 
 — The player includes a built-in game engine, Mophun for 3D-style games.
 
@@ -22,7 +22,7 @@
 <details>
 <summary><b>AV700</b></summary>
 
-![Device](AV700.png)
+<a href="#"><img src="AV700.png" /></a>
 
 — The AV700 comes in 40, 80 or 100 gigabyte models. The built-in screen resolution is 420 by 234.
 
@@ -33,7 +33,7 @@
 <details>
 <summary><b>PMA400</b></summary>
 
-![Device](PMA400.png)
+<a href="#"><img src="PMA400.png" /></a>
 
 — The Archos PMA400 is a personal digital assistant (PDA) from Archos.
 
@@ -49,7 +49,7 @@
 <details>
 <summary><b>VS400</b></summary>
 
-![Devices](VS400.png)
+<a href="#"><img src="VS400.png" /></a>
 
 — The phone supports both Java and Mophun. There is only one game in the Mophun folder, this is the Xfinity arcade game, which is well known to owners of Sony Ericsson phones. It was not possible to find any other games for this phone, on the official website of Mophun there was no mention of support for Voxtel devices, let's hope that this is temporary.
 
@@ -58,7 +58,7 @@
 <details>
 <summary><b>SX1</b></summary>
 
-![Devices](SX1.png)
+<a href="#"><img src="SX1.png" /></a>
 
 — The Siemens SX1 is a GSM mobile phone running version 1.2 of the Series 60 platform for the Symbian OS.
 — Mophun 3D support
@@ -70,7 +70,7 @@
 <details>
 <summary><b>SendoX</b></summary>
 
-![Devices](SendoX.png)
+<a href="#"><img src="SendoX.png" /></a>
 
 — The Sendo X was Sendo's first Series 60 based "high-end" phone, developed after Sendo switched from the Microsoft to Symbian / Series 60 platforms.
 
@@ -122,7 +122,7 @@
 <details>
 <summary><b>N-Gage</b></summary>
 
-![Devices](NGAGE.png)
+<a href="#"><img src="NGAGE.png" /></a>
 
 — Mophun pure support
 
@@ -136,7 +136,7 @@
 <details>
 <summary><b>N-Gage QD</b></summary>
 
-![Devices](NGAGEQD.png)
+<a href="#"><img src="NGAGEQD.png" /></a>
 
 — Mophun pure support
 
@@ -149,7 +149,7 @@
 <details>
 <summary><b>GameTrac Gizmondo</b></summary>
 
-![Devices](Gizmondo.png)
+<a href="#"><img src="Gizmondo.png" /></a>
 
 — The Gizmondo is a handheld gaming console developed by Tiger Telematics. It was released in the UK, Sweden and the U.S
 
@@ -166,13 +166,13 @@
 <details>
 <summary><b>T310</b></summary>
 
-![Devices](T310.png)
+<a href="#"><img src="310.png" /></a>
 </details>
 
 <details>
 <summary><b>T610</b></summary>
 
-![Devices](T610.png)
+<a href="#"><img src="T610.png" /></a>
 
 </details>
 
