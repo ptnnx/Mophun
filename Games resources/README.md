@@ -14,7 +14,9 @@
 | romulset3-0.narod.ru | Yes | [Link](http://romulset3-0.narod.ru/Games12.html) |
 | set300.wz.cz | Yes | [Link](http://www.set300.wz.cz/hry.html) |
 | terewong.com | Yes | [Link](http://terewong.com/mytoys0ab12.htm#16) |
+| m.wangchao.net.cn | Yes | [Link](http://m.wangchao.net.cn/it/scdetail_48618.html) |
 | forumponsel.mw.It | Yes | [Link](http://forumponsel.mw.lt/mophun) |
+| m.mobile01.com | Yes | [Link](https://m.mobile01.com/topicdetail.php?f=121&t=3712) |
 | pushlink.narod.ru | Yes | [Link](http://www.pushlink.narod.ru/Games/a.htm) |
 | joescat.com | Yes | [Link](http://www.joescat.com/mobile/shiparcade.html) |
 | kowalczyktomasz.atspace.com | Yes | [Link](http://kowalczyktomasz.atspace.com/old_games.html) |
@@ -35,8 +37,27 @@
 | gemmyplanet.com | No (Archived) | [Link](https://web.archive.org/web/20080220111146/http://www.gemmyplanet.com/BrowseGame.jsp?gametype=All&phonemodel=2) |
 | binary-graffitti.com | No (Archived) | [Link](https://web.archive.org/web/20030811132853/http://www.binary-graffitti.com:80/Demos/) |
 | sonyericsson.paradisezone.net | No (Archived) | [Link](https://web.archive.org/web/20080624090600/http://sonyericsson.paradisezone.net/) |
+| clubsonyericsson.com | No (Archived) | [Link](https://web.archive.org/web/20051204100232/http://www.clubsonyericsson.com/resources/games/t300/) |
+| mobiledia.com | No (Archived) | [Link](https://web.archive.org/web/20031203212528/http://www.mobiledia.com/phones/t310/index.html) |
+| funsat.ru | No (Archived) | [Link](https://web.archive.org/web/20090125124908/http://funsat.ru/area.php?cid=33) |
+## Packages for Symbian
 
-# Packages
+— .iSO file
+
+https://drive.google.com/file/d/1sqFdpwed_DJgKfMOFdx_JTiRV3c8UvSa/view
+
+— Collection/Emulators
+
+https://mega.nz/folder/M59gSSRQ#4_rFMoHhhUH1D-N7GuEGMA
+https://cdn.discordapp.com/attachments/793085042020450324/821807058999443466/mophun_2.5.4_tuxality_A2.zip
+https://cdn.discordapp.com/attachments/793085042020450324/806877509936480276/set300.wz.cz-hry.zip
+https://cdn.discordapp.com/attachments/793085042020450324/806870782122655774/sonyericsson.paradisezone.net-mpn.zip
+https://4pda.to/forum/dl/post/51923/MOPHNUN2.zip
+https://4pda.to/forum/dl/post/51926/MOPHNUN.rar
+https://4pda.to/forum/dl/post/51930/MophunWM2003SE.7z
+https://4pda.to/forum/dl/post/234446/game_mpn.zip
+https://4pda.to/forum/dl/post/55295/20_Smart_Land_Zip_.zip
+https://4pda.to/forum/dl/post/21480081/mophunblazeemulator.sis
 
 — Mophun games
 
@@ -59,8 +80,25 @@ https://www.4shared.com/zip/Q291ILei/Mophun_for_s60v3.html
 https://www.mediafire.com/file/xdsunfacpvy20n2/Mophun+Games+Launcher+++Game+For+EKA2L1+Android.zip/file
 https://www.mediafire.com/file/wv4bmbsl8043dmr/Mophun_Launcher_EKA2L1_Symbian_Update.zip/file
 
+* Phoneky
 
+https://phoneky.com/symbian-games/?id=z0z6930
+https://phoneky.com/symbian-games/?id=z0z6931
+https://phoneky.com/symbian-games/?id=z0z7431
+https://phoneky.com/symbian-games/?id=z0z7233
+https://phoneky.com/symbian-games/?id=z0z7234
+https://phoneky.com/symbian-games/?id=z0z6863
+https://phoneky.com/symbian-games/?id=z0z6864
+https://phoneky.com/symbian-games/?id=z0z7092
+
+* Dertz
+
+https://www.dertz.in/games/download-Carmageddon-for-s60v3-free-symbian-mobile-game-18342.htm
 https://www.dertz.in/games/download-Mophuns-Launcher-S60v3-free-symbian-mobile-game-31193.htm
+https://www.dertz.in/games/download-Lock-N-Load-2-3D-for-s60-3rd-free-symbian-mobile-game-17719.htm
+
+* Others
+
 http://dodi21.jw.lt/Mophun%20launcher%20%20pack%20game%20s60v3
 https://profismart.org/f-36373.php
 http://best-nokia.net/soft/s9/emul2/1463-mophun-games-launcher-1.0-symbian-os-9.1.html
@@ -83,6 +121,31 @@ http://kothe.wapsite.me/Symbian%20Files/S60v1v2/Game%20Emulator/Mophun.Ngage.sis
 http://kothe.wapsite.me/Symbian%20Files/S60v1v2/Game%20Emulator/Mophun04.OS7.sis
 https://4allmobile.eu/viewtopic.php?t=8238
 https://archive.org/details/mophun-game-pack
+https://4pda.to/pages/go/?u=http%3A%2F%2Fboard.riot.ru%2F27-smartfony%2F8150-mophun-games-2.html&e=1067817
+
+* Mophun/SiS [4mophun/MGL]
+
+http://dienpaulo.wap.sh/files/carmagedon%20mophune.sis
+http://dienpaulo.wap.sh/files/davinci%20mophune.sis
+http://dienpaulo.wap.sh/files/exile%20mophune.sis
+http://dienpaulo.wap.sh/files/joe%20treasure%20mophune.sis
+http://dienpaulo.wap.sh/files/lock%20n%20load%20mophune.sis
+http://dienpaulo.wap.sh/files/martial%20art%20mophune.sis
+http://dienpaulo.wap.sh/files/rally%20mophune.sis
+http://dienpaulo.wap.sh/files/FootballPro.sis
+http://dienpaulo.wap.sh/files/HeliATTACK.sis
+http://dienpaulo.wap.sh/files/GolfPro.sis
+http://dienpaulo.wap.sh/files/Boxing.sis
+http://dienpaulo.wap.sh/files/mophune.sis
+
+https://4pda.to/forum/dl/post/21342374/The_Da_Vinci_Code_by_BodyZ.sisx
+https://4pda.to/forum/dl/post/21342373/Carmageddon.sisx
+https://4pda.to/forum/dl/post/21342375/Lock%26%2339%3Bn%26%2339%3BLoad_2_by_BodyZ.sisx
+https://4pda.to/forum/dl/post/51920/LocknLoad6600.sis
+https://4pda.to/forum/dl/post/51921/LocknLoad_Rise_of_War_QVGA.zip
+https://4pda.to/forum/dl/post/51922/Carmageddon3D_QVGA.zip
+https://4pda.to/forum/dl/post/51929/LNL2.zip
+
 
 * WWP
 
@@ -90,8 +153,16 @@ https://nokia-n81.at.ua/load/igry/sis/worms_world_party_mophun_games_symbian_9/7
 http://www.mediafire.com/file/mw1f5j01992nb6b/WWP-MOD-1.0.1-s60v3.sis.7z/file
 https://www.dertz.in/games/download-Worms-World-Party-Mophuns-S60-3rd-free-symbian-mobile-game-17783.htm
 https://ms.do.am/load/30-1-0-725
+https://smoke.ucoz.ua/load/worms_world_party/14-1-0-212
+https://4pda.to/forum/dl/post/139006/worm_world_party_mophun.rar
+https://4pda.to/forum/dl/post/1226384/Worms_WP.zip
+https://4pda.to/forum/dl/post/1053913/worms_world_party.sis
 
 ### Dead sites (Archived)
+
+https://web.archive.org/web/20030811132853/http://www.binary-graffitti.com:80/Demos/evac.mpn
+https://web.archive.org/web/20030811132743/http://www.binary-graffitti.com:80/Demos/PokerShowdown610.mpn
+https://web.archive.org/web/*/http://www.binary-graffitti.com:80/Catalogue.doc
 
 * http://en.pudn.com/Download/item/id/151766.html
 * http://en.pudn.com/Download/item/id/151769.html
