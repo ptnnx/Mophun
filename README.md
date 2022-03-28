@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="mophun_logo.png" alt="Mophun" width="150"></a>
+  <a href="#"><img src="mophun_logo.png" alt="Mophun" width="150"></a>
   <br>
   Mophun
   <br>
@@ -129,7 +129,7 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 
 |  S1   |  S2  |
 | --- | --- |
-| ![Screenshots](Extra/MGL1.jpg) | ![Screenshots](Extra/MGL2.jpg) |
+| <a href="#"><img src="Extra/MGL1.jpg" /></a> | <a href="#"><img src="Extra/MGL2.jpg" /></a> |
 
 | <ins><b>★ Installation ★</ins></b> |
 | ------------------------------------ |
@@ -146,7 +146,7 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 ## 4mophun 
 
 <h1 align="center">
-        <img height="60%" width="50%" src="Extra/4mophun.jpg"><br>
+        <a href="#"><img src="Extra/4mophun.jpg" width="150" /></a><br>
 </h1>
 
 **4mophun** on Windows Mobile, you can run 4mophun on Windows through Microsoft's Device Emulator. Does not work with games that are locked (e.g. have a predefined IMEI recognition algorithm) or do not use the 3D engine.
