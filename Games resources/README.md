@@ -1,4 +1,4 @@
-### Sites
+### Sites (.mpn)
 
 | Site | Active | Link? |
 | ----- | ------ | ----- |
@@ -13,12 +13,14 @@
 | erics-son.narod.ru | Yes | [Link](http://www.erics-son.narod.ru/games.html) |
 | romulset3-0.narod.ru | Yes | [Link](http://romulset3-0.narod.ru/Games12.html) |
 | set300.wz.cz | Yes | [Link](http://www.set300.wz.cz/hry.html) |
+| pcbanan.wz.cz | Yes | [Link](http://pcbanan.wz.cz/index.php) |
 | terewong.com | Yes | [Link](http://terewong.com/mytoys0ab12.htm#16) |
 | m.wangchao.net.cn | Yes | [Link](http://m.wangchao.net.cn/it/scdetail_48618.html) |
 | forumponsel.mw.It | Yes | [Link](http://forumponsel.mw.lt/mophun) |
 | m.mobile01.com | Yes | [Link](https://m.mobile01.com/topicdetail.php?f=121&t=3712) |
 | pushlink.narod.ru | Yes | [Link](http://www.pushlink.narod.ru/Games/a.htm) |
 | joescat.com | Yes | [Link](http://www.joescat.com/mobile/shiparcade.html) |
+| ethnic.wapath.com | Yes | [Link](http://ethnic.wapath.com/map/game/mophun) |
 | kowalczyktomasz.atspace.com | Yes | [Link](http://kowalczyktomasz.atspace.com/old_games.html) |
 | javaonthebrain.com | Yes | [Link](http://www.javaonthebrain.com/java/graviton/about.html) |
 | ngager.boom.ru | No (Archived) | [Link](https://web.archive.org/web/20090213111940/http://ngager.boom.ru/mophun.htm) |
@@ -42,7 +44,7 @@
 | funsat.ru | No (Archived) | [Link](https://web.archive.org/web/20090125124908/http://funsat.ru/area.php?cid=33) |
 | netova-plantaz.unas.cz | No (Archived) | [Link](https://web.archive.org/web/20121116113014/http://netova-plantaz.unas.cz/category/mophun-hry) |
 
-## Packages for Symbian
+## Resources for 3D mophun games
 
 — .iSO file
 
@@ -62,6 +64,10 @@
 * https://4pda.to/forum/dl/post/21480081/mophunblazeemulator.sis
 * https://4pda.to/forum/dl/post/19021847/M_Emul+%281%29.zip
 * https://4pda.to/forum/dl/post/19021827/M_Emul2.rar
+* https://www.dospy.wang/thread-11135-1-1.html
+* https://m.duote.com/soft/14056.html [4Mophun-Chinese]
+* https://gdespaces.com/files/view/mophun-for-windows-mobile-29099848/?Li=24640&Lii=31190725&Link_id=216718&Lt=4&Sn=44
+* https://forum.gsmhosting.com/vbb/attachment.php?attachmentid=83967&d=1162279959
 
 — Mophun games
 
@@ -72,6 +78,7 @@
 
 — Mophun Games Launcher
 
+* https://www.4shared.com/zip/6QcSEP-Lce/mophun-games-pack-s60v3.html
 * https://www.4shared.com/zip/CFiTu2EZce/mophun-emulato.html
 * https://www.4shared.com/file/29753253/a6eda16c/BiNPDA_Mophun_Games_Launcher_v.html?s=1
 * https://www.4shared.com/zip/Q291ILei/Mophun_for_s60v3.html
@@ -115,8 +122,10 @@
 * https://oldfag.top/downloads/?act=view&id=2015
 * http://www.freewebtown.com/novak20/downloads/Mophun.OS7.zip
 * http://www.freewebtown.com/novak20/downloads/Mophun.NG.zip
+* https://forum.gsmhosting.com/vbb/attachment.php?attachmentid=94457&d=1170002727
+* https://forum.motofan.ru/index.php?act=Attach&type=post&id=84679
 
-★ Mophun/SiS [4mophun/MGL]
+★ Mophun/SiS/mpn
 
 * http://dienpaulo.wap.sh/files/carmagedon%20mophune.sis
 * http://dienpaulo.wap.sh/files/davinci%20mophune.sis
@@ -140,6 +149,8 @@
 * https://spac1.net/files/view/carmageddon-v-1-7-by-bodyz-57421950/
 * https://spac1.net/files/view/carmageddon3d-54735291/
 * https://cracksgurus.com/crack/Mophun-Anarchy-Boxing-3D-v1.60-N6600-N3620-N3660-SymbianOS-Retail-keygen-by-XiMPDA-bee53e9058.html
+* https://aray.cn/archives/1125
+* https://forum.motofan.ru/index.php?act=Attach&type=post&id=83442
 
 ★ WWP
 
@@ -153,6 +164,16 @@
 * https://4pda.to/forum/dl/post/1053913/worms_world_party.sis
 * https://rugame.ml/#/sgames/3088
 * https://sefan.ru/loads/?l=games/240x320/sis/Worms_World_Party_Mophun_Games.zip&style=2&lan=en&new
+* https://forum.gsmhosting.com/vbb/attachment.php?attachmentid=94458&d=1170002727 [p1]
+* https://forum.gsmhosting.com/vbb/attachment.php?attachmentid=94459&d=1170002727 [p2]
+* https://forum.gsmhosting.com/vbb/attachment.php?attachmentid=94464&d=1170003312 [p3]
+* https://forum.gsmhosting.com/vbb/attachment.php?attachmentid=94465&d=1170003312 [p4]
+* https://forum.gsmhosting.com/vbb/attachment.php?attachmentid=94466&d=1170003537 [p5]
+* https://forum.motofan.ru/index.php?act=Attach&type=post&id=121235
+
+★ Documents
+
+* https://forum.motofan.ru/index.php?act=Attach&type=post&id=83446
 
 ### Dead sites (Archived)
 
