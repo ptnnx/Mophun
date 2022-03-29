@@ -152,7 +152,7 @@ Only compatible with 16 games, all of which use the 3D engine and were released 
 | <ins><b>★ Installation ★</ins></b> |
 | ------------------------------------ |
 | <b>Step 1</b>: <i>Install the <code>mophun_games_launcher.sis</code></i> | 
-| <b>Step 2</b>: <i>Move/Extract the <code>mp/f0001092</code> or GamesPack.sis folder/file to <code>EKA2L1/data/drives/e/data/</code> paste here.</i> |
+| <b>Step 2</b>: <i>Move/Extract the <code>mp/f0001092</code> folder to <code>com.github.eka2l1/files/data/drives/e/data/</code> Paste here.</i> |
 
 ### 4mophun 
 
