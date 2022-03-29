@@ -5,12 +5,12 @@
   Mophun
   <br>
 </h1>
-<i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. Some phones and other devices support Mophun. Sony Ericsson phones, especially the Sony Ericsson T300 and Sony Ericsson T610, are the best known devices for running Mophun. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
+<i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
 
 | Emulators  | Version    | Platform | Active |
 | ---------- | ---------- | --------- | ------ |
 | Mophun-mod | 2.5.4 Alpha 2   | Windows | Yes (tuxality-mod) |
-| Mophun games launcher  | 1.01/1.04 unsigned | Symbian | No |
+| Mophun games launcher  | 1.01/unsigned | Symbian | No |
 | 4mophun    | 1.1 | Windows Mobile | No |
 | MoRePhun | POC | Windows | Yes |
 
@@ -100,7 +100,7 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 </details>
 
 ### Mophun Games Launcher
-Only compatible with 16 games, all of which use the 3D engine and were released for Symbian. Russian-mod creted for N-series Edition (8.1 i.e. H70/72, N70.) and Synergenix Blaze-mod for N90 smartphone (displayresolution 352x416).
+Only compatible with 14 games, all of which use the 3D engine and were released for Symbian. Russian-mod creted for N-series Edition (8.1 i.e. H70/72, N70.) and Synergenix Blaze-mod for N90 smartphone (displayresolution 352x416).
 
 <details>
 <summary><b><i>Compatibility</b></i></summary>
@@ -115,18 +115,16 @@ Only compatible with 16 games, all of which use the 3D engine and were released 
 
 - Anarchy Boxing 3D 1.60
 - Carmageddon 3D
-- Conflict Desert Storm (unavailable)
-- Conflict Global Storm (unavailable)
-- The Da Vinci Code 1.0.2
+- The Da Vinci Code 3D 1.0.2
 - Fatal Arena 3D
 - Football Pro Contest 1.0.4
 - Golf Pro Contest 1 3D
 - Golf Pro Contest 3D 2 1.0.1
 - Heli Attack 2
-- Joe ’s Treasure Quest 3D
-- Lock ‘n Load Combat Arena 1.20.0
-- Lock ‘n Load Rise of War 1.01
-- Lock ‘n Load 2 1.1.0
+- Joe’s Treasure Quest 3D
+- Lock‘N Load Combat Arena 1.20.0
+- Lock‘N Load Rise of War 1.01
+- Lock‘N Load 2 1.1.0
 - Martial Arts 3D 1.0
 - Rally Pro Contest 3D 1.30
 - Worms World Party (won't work with emulator installed)
@@ -176,8 +174,6 @@ Only compatible with 16 games, all of which use the 3D engine and were released 
 | American Racing 3D      |  |  |
 | Anarchy Boxing 3D (available via Bluetooth)     | RealBoxing | Work |
 | Carmageddon 3D (possible via Bluetooth)      | Carmageddon3D      |   Work |
-| Conflict Desert Storm | |
-| Conflict Global Storm | |
 | Da Vinci Code 3D | DVC      |    Work |
 | Fatal Arena 3D | FA3D      |    Work |
 | Football Pro Contest | FootballPro      |    Work |
@@ -185,9 +181,9 @@ Only compatible with 16 games, all of which use the 3D engine and were released 
 | Golf Pro Contest 2 | GolfProContest2      |    Work with no sound |
 | Heli Attack 2      |  |  |
 | Joes Treasure Quest 3D      |  |  |
-| Lock'n Load: Rise of War | LocknLoad      |    Work |
-| Lock'n Load 2 (available via Bluetooth) | Exile      |    Work |
-| Lock'n Load: Combat Arena (available via Wi-Fi or GPRS) | ArenaTMN      |    Work but only multiplayer |
+| Lock'N Load: Rise of War | LocknLoad      |    Work |
+| Lock'N Load 2 (available via Bluetooth) | Exile      |    Work |
+| Lock'N Load: Combat Arena (available via Wi-Fi or GPRS) | ArenaTMN      |    Work but only multiplayer |
 | Martial Arts 3D | MA3D      |    Work |
 | Rally Pro Contest (available via Bluetooth) | RallyProContest      |    Work |
 | Worms World Party | WormsWWP      |    Not work with bad or missing certificate |
@@ -195,7 +191,7 @@ Only compatible with 16 games, all of which use the 3D engine and were released 
 </details>
 
 ### Screenshots
-* <i>'Later 3D based mophun games screenshot for symbian/WM.'</i>
+* <i>Later 3D based mophun games</i>
 
 |     |     |
 | --- | --- |
@@ -224,9 +220,31 @@ Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specia
 [Mophun SDK 2.5](http://tuxality.net/public/MophunSDK_2_5.zip) or [here](https://vetusware.com/download/Mophun%20SDK%202.5/?id=17165)
 
 # Mophun 3D
-— There are two versions of Mophun, 2D and 3D, for low-end and high-end handsets, and it's often used to provide embedded (pre-installed) games on mobile phone handsets.
+— There are two versions of Mophun 2D and 3D, for low-end and high-end handsets and it's often used to provide embedded (pre-installed) games on mobile phone handsets.
 
-— More information check out <b><i>"[Mophun 3D database](https://github.com/ptnn0/Mophun/tree/main/Mophun%203D%20database)"</b></i>, Newer Mophun 3D SDK unavailable, All 3D mophun games released for Symbian.
+— More information check out <b><i>"[Mophun 3D database](https://github.com/ptnn0/Mophun/tree/main/Mophun%203D%20database)"</b></i>, Newer Mophun 3D SDK unavailable. All 3D mophun games released for Symbian.
+
+<details>
+<summary><b><i>Mophun 3D Games</b></i></summary>
+
+- Anarchy Boxing 3D
+- Carmageddon 3D
+- Conflict Desert Storm 3D (Unavailable)
+- Conflict Global Storm 3D (Unavailable)
+- The Da Vinci Code 3D
+- Fatal Arena 3D
+- Football Pro Contest 3D
+- Golf Pro Contest 1 3D
+- Golf Pro Contest 3D 2
+- Heli Attack 2 3D
+- Joe’s Treasure Quest 3D
+- Lock‘N Load Combat Arena 3D
+- Lock‘N Load Rise of War 3D
+- Lock‘N Load 2 3D
+- Martial Arts 3D
+- Rally Pro Contest 3D
+- Worms World Party
+</details>
 
 ## Resources
 * [Mophun games gameplay](https://youtube.com/playlist?list=PLq278TxO0xWUsEDsDLiC6TQvDwzGbjb5k)
