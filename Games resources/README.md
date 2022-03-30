@@ -5,34 +5,26 @@
 | seclub.org | Yes | [Link](https://seclub.org/dn.php?d=4&r=2) |
 | myt230.narod.ru | Yes | [Link](http://myt230.narod.ru/aboutmophun.html) |
 | xmobila.narod.ru | Yes | [Link](http://www.xmobila.narod.ru/game.html) |
-| t610cce.narod.ru | Yes | [Link](http://www.t610cce.narod.ru/games.html) |
+| t610cce.narod.ru | No (Archived) | [Link](https://web.archive.org/web/*/http://www.t610cce.narod.ru*) |
 | users.atw.hu | Yes | [Link](http://users.atw.hu/mobiltelefon5/game.htm) |
 | sites.google.com | Yes | [Link](https://sites.google.com/site/trpsthakur/sony-games) |
-| kucingsakti.xtgem.com | Yes | [Link](http://kucingsakti.xtgem.com/games/mophun+games) |
 | sonyericsson-club.narod.ru | Yes | [Link](http://sonyericsson-club.narod.ru/gamemoph.html) |
 | erics-son.narod.ru | Yes | [Link](http://www.erics-son.narod.ru/games.html) |
 | romulset3-0.narod.ru | Yes | [Link](http://romulset3-0.narod.ru/Games12.html) |
-| set300.wz.cz | Yes | [Link](http://www.set300.wz.cz/hry.html) |
+| set300.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20090511110500/http://www.set300.wz.cz/hry.html) |
 | pcbanan.wz.cz | Yes | [Link](http://pcbanan.wz.cz/index.php) |
 | terewong.com | Yes | [Link](http://terewong.com/mytoys0ab12.htm#16) |
 | m.wangchao.net.cn | Yes | [Link](http://m.wangchao.net.cn/it/scdetail_48618.html) |
 | forumponsel.mw.It | Yes | [Link](http://forumponsel.mw.lt/mophun) |
 | m.mobile01.com | Yes | [Link](https://m.mobile01.com/topicdetail.php?f=121&t=3712) |
-| pushlink.narod.ru | Yes | [Link](http://www.pushlink.narod.ru/Games/a.htm) |
 | joescat.com | Yes | [Link](http://www.joescat.com/mobile/shiparcade.html) |
-| ethnic.wapath.com | Yes | [Link](http://ethnic.wapath.com/map/game/mophun) |
 | kowalczyktomasz.atspace.com | Yes | [Link](http://kowalczyktomasz.atspace.com/old_games.html) |
 | javaonthebrain.com | Yes | [Link](http://www.javaonthebrain.com/java/graviton/about.html) |
 | coreyshotsite2.tripod.com | Yes | [Link](https://coreyshotsite2.tripod.com/id23.html) |
 | ngager.boom.ru | No (Archived) | [Link](https://web.archive.org/web/20090213111940/http://ngager.boom.ru/mophun.htm) |
-| t610yz600.com | No (Archived) | [Link](https://web.archive.org/web/20040722073758/http://www.t610yz600.com/java.php) |
-| imserba.com | No (Archived) | [Link](https://web.archive.org/web/20050402053327/http://www.imserba.com/free-mophun-games.html) |
-| myt610.lasyk.net | No (Archived) | [Link](https://web.archive.org/web/20061205075355/http://www.myt610.lasyk.net/T610/Games/) |
 | all4t310.private.pl | No (Archived) | [Link](https://web.archive.org/web/20061011225449/http://www.all4t310.private.pl/gry/caloscgry.htm) |
 | tsixten.co.uk | No (Archived) | [Link](https://web.archive.org/web/20091002215929/http://www.tsixten.co.uk/games/index.htm) |
-| t-610.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20071008201554/http://t-610.wz.cz/body6.html) |
-| sony.com.hk | No (Archived) | [Link](https://web.archive.org/web/20040422185226/http://www.sony.com.hk/mobile_planet/eng/download_game.html) |
-| t610.aktualne.cz | No (Archived) | [Link](https://web.archive.org/web/20050129223951/http://t610.aktualne.cz/) |
+| t-610.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20071007165033/http://t-610.wz.cz/body8.html) |
 | mobile-stars.ru | No (Archived) | [Link](https://web.archive.org/web/20071022043458/http://www.mobile-stars.ru/download/sony/mophun/) |
 | 8ung.at | No (Archived) | [Link](https://web.archive.org/web/20050407190910/http://www.8ung.at/is4u/) |
 | mophungames.com | No (Archived) | [Link](https://web.archive.org/web/20030423103452/http://www.mophungames.com/) |
@@ -43,7 +35,6 @@
 | sonyericsson.paradisezone.net | No (Archived) | [Link](https://web.archive.org/web/20080624090600/http://sonyericsson.paradisezone.net/) |
 | clubsonyericsson.com | No (Archived) | [Link](https://web.archive.org/web/20051204100232/http://www.clubsonyericsson.com/resources/games/t300/) |
 | mobiledia.com | No (Archived) | [Link](https://web.archive.org/web/20031203212528/http://www.mobiledia.com/phones/t310/index.html) |
-| funsat.ru | No (Archived) | [Link](https://web.archive.org/web/20090125124908/http://funsat.ru/area.php?cid=33) |
 | netova-plantaz.unas.cz | No (Archived) | [Link](https://web.archive.org/web/20121116113014/http://netova-plantaz.unas.cz/category/mophun-hry) |
 
 ## Resources for 3D mophun games
