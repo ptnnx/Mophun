@@ -7,7 +7,10 @@
 </h1>
 <i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
 
-| Emulators  | Version    | Platform | Active |
+— <i>Mophun Supported devices check out <b>'[Devices list](https://github.com/ptnn0/Mophun/tree/main/Devices%20list)'</b></i>
+
+##### Emulators
+| Name  | Version    | Platform | Active |
 | ---------- | ---------- | --------- | ------ |
 | Mophun-mod | 2.5.4 Alpha 2   | Windows | Yes (tuxality-mod) |
 | Mophun games launcher  | 1.01/unsigned | Symbian | No |
@@ -103,11 +106,37 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 Only compatible with 14 games, all of which use the 3D engine and were released for Symbian. Russian-mod creted for N-series Edition (8.1 i.e. H70/72, N70.) and Synergenix Blaze-mod for N90 smartphone (displayresolution 352x416).
 
 <details>
+<summary><b><i>Versions</b></i></summary>
+
+<details>
+<summary><i>BinPDA</i></summary>
+
+Updates:
+
+— Added support for Symbian OS9.2. 
+
+— Added icons for games.
+
+— Added item "About the game".
+
+Installation:
+
+1) Mophun Games Launcher v1.01.sis
+
+2) GamesPack.sis
+
+mpn-games should be placed in : /Data/MP/F0001092
+
+* PS Not compatible with (sis) Mophun games, you must uninstall Mophun games before installing the emulator.
+</details>
+</details>
+
+<details>
 <summary><b><i>Compatibility</b></i></summary>
 
 — Compatible with Symbian 9.1, 9.2
 
-— The emulator should work fine on 3250, E60, 6290, N70, N93.
+— The emulator should work fine on 3250, E60, 6290, N70, N73ME, N93.
 </details>
 
 <details>
@@ -191,25 +220,25 @@ Only compatible with 14 games, all of which use the 3D engine and were released 
 </details>
 
 ### Screenshots
-* <i>Later 3D based mophun games</i>
 
-|     |     |
-| --- | --- |
-| ![Screenshots](Screenshots/2.jpg) | ![Screenshots](Screenshots/3.jpg) |
-| ![Screenshots](Screenshots/6.jpg) | ![Screenshots](Screenshots/11.jpg) |
-| ![Screenshots](Screenshots/14.jpg) | ![Screenshots](Screenshots/15.jpg) |
-| ![Screenshots](Screenshots/5.jpg) | ![Screenshots](Screenshots/7.jpg) |
-| ![Screenshots](Screenshots/8.jpg) | ![Screenshots](Screenshots/10.gif) |
-| ![Screenshots](Screenshots/12.jpg) | ![Screenshots](Screenshots/13.jpg) |
-| ![Screenshots](Screenshots/4.jpg) | ![Screenshots](Screenshots/16.gif) |
-| ![Screenshots](Screenshots/17.jpg) | ![Screenshots](Screenshots/18.jpg) |
-| ![Screenshots](Screenshots/19.gif) | ![Screenshots](Screenshots/20.jpg) |
-| ![Screenshots](Screenshots/21.png) | ![Screenshots](Screenshots/22.png) |
-| ![Screenshots](Screenshots/1.jpg) | ![Screenshots](Screenshots/23.jpg) |
-| ![Screenshots](Screenshots/24.jpg) | ![Screenshots](Screenshots/25.jpg) |
-| ![Screenshots](Screenshots/30.jpg) | ![Screenshots](Screenshots/26.jpg) |
-| ![Screenshots](Screenshots/27..jpg) | ![Screenshots](Screenshots/31.jpg) |
-| ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
+| American Racing 3D | Anarchy Boxing 3D | Fatal Arena 3D |
+| --- | --- | --- |
+| ![Screenshots](Screenshots/2.jpg) | ![Screenshots](Screenshots/3.jpg) | ![Screenshots](Screenshots/6.jpg) |
+
+| Heli Attack 2 3D | Joe’s Treasure Quest 3D | Martial Arts 3D |
+| --- | --- | --- |
+| ![Screenshots](Screenshots/11.jpg) | ![Screenshots](Screenshots/14.jpg) | ![Screenshots](Screenshots/15.jpg) |
+
+|      |      |       |
+| ---- | ----- | ----- |
+| ![Screenshots](Screenshots/5.jpg) | ![Screenshots](Screenshots/7.jpg) | ![Screenshots](Screenshots/8.jpg) |
+| ![Screenshots](Screenshots/10.gif) | ![Screenshots](Screenshots/12.jpg) | ![Screenshots](Screenshots/13.jpg) |
+| ![Screenshots](Screenshots/4.jpg) | ![Screenshots](Screenshots/16.gif) | ![Screenshots](Screenshots/17.jpg) |
+| ![Screenshots](Screenshots/18.jpg) | ![Screenshots](Screenshots/19.gif) | ![Screenshots](Screenshots/20.jpg) |
+| ![Screenshots](Screenshots/21.png) | ![Screenshots](Screenshots/22.png) | ![Screenshots](Screenshots/1.jpg) |
+| ![Screenshots](Screenshots/23.jpg) | ![Screenshots](Screenshots/24.jpg) | ![Screenshots](Screenshots/25.jpg) |
+| ![Screenshots](Screenshots/30.jpg) | ![Screenshots](Screenshots/26.jpg) | ![Screenshots](Screenshots/27..jpg) |
+| ![Screenshots](Screenshots/31.jpg) | ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
 
 ### MoRePhun
 A new, open source emulator by Luca91. It is only a proof of concept, as only a few opcodes and a couple of SDK APIs are emulated, and there is no heap. There is sprite and input support, as well as support for the collision API. It is compatible with a few small homebrews. Luca91 mentions the SDK API handler needs to be better organized.
@@ -222,11 +251,14 @@ Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specia
 # Mophun 3D
 — There are two versions of Mophun 2D and 3D, for low-end and high-end handsets and it's often used to provide embedded (pre-installed) games on mobile phone handsets.
 
-— More information check out <b><i>"[Mophun 3D database](https://github.com/ptnn0/Mophun/tree/main/Mophun%203D%20database)"</b></i>, Newer Mophun 3D SDK unavailable. All 3D mophun games released for Symbian.
+— More information check out <b><i>'[Mophun 3D database](https://github.com/ptnn0/Mophun/tree/main/Mophun%203D%20database)'</b></i>, Newer Mophun 3D SDK unavailable. All 3D mophun games released for Symbian.
 
 <details>
 <summary><b><i>Mophun 3D Games</b></i></summary>
 
+— <i><ins>Later 3D based mophun games</i></ins>
+
+- American Racing 3D
 - Anarchy Boxing 3D
 - Carmageddon 3D
 - Conflict Desert Storm 3D (Unavailable)
