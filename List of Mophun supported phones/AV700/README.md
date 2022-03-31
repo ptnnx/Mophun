@@ -1,0 +1,1 @@
+The AV 700 TV comes with various Mophun demo version games designed for the terminal, some of them quite impressive graphically. The AV 700 TV only has a fairly "hard" Joypad to use, so the use of such games will a priori only remain an accessory function.
