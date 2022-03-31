@@ -178,12 +178,12 @@
 
 | Device | Models |
 | ------ | ------ |
-| Sony Ericsson | T68, T68i, T100, T226, T230, T237, T238, T290 (T290a, T290i, T290c), T300/R201, T302, T306, T310, T312, T316, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910 (P910i), Z208, Z300, Z600, Z608 |
-| Nokia (Symbian S60/UIQ) | 3230, 3600, 3620, 3650, 3660, 6260, 6600, 6620, 6630, 6670, 6680, 6681, 6682, 6730, 7610, 7650, E60, E61, E70, N70, N71, N73 (slow), N80, N-Gage*, N-Gage QD |
+| Sony Ericsson | T68 (T68i), T100, T226, T230, T237, T238, T290 (T290a, T290i, T290c), T300/R201, T302, T306, T310, T312, T316, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910 (P910i), Z208, Z300, Z600, Z608 |
+| Nokia (Symbian S60/UIQ) | 3230, 3250, 3600, 3620, 3650, 3660, 6260, 6600, 6620, 6630, 6670, 6680, 6681, 6682, 6730, 7610, 7650, E60, E61, E70, N70, N71, N72, N73 (slow), N80, N91, N92, N93, N95, N-Gage*, N-Gage QD |
 | Windows Mobile | All Windows Mobile Smartphones running at a resolution of 176x220 or 240x320 |
 | Motorola | A920, A925, A1000 |
 | Siemens | SX1 |
-| Archos | Gmini 400, Gmini 402, PMA400, AV700 |
+| Archos | Gmini 400, Gmini 402 (Gmini 402 Camcorder), PMA400, AV700 (AV700TV) |
 | Medion, PAVO, TTPCom | MD95674 |
 | Sendo | SendoX |
 | Tiger Telematics | GameTrac Gizmondo |
