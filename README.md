@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="mophun_logo.png" alt="Mophun" width="150"></a>
+  <a href="#"><img src="mophun_logo.png" alt="Mophun" width="160"></a>
   <br>
   Mophun
   <br>
 </h1>
 <i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
 
-— <i>Mophun Supported devices check out <b>'[Devices list](https://github.com/ptnn0/Mophun/tree/main/Devices%20list)'</b></i>
+— <i>Mophun Supported devices check out <b>'[List of Mophun supported phones](https://github.com/ptnn0/Mophun/tree/main/List%20of%20Mophun%20supported%20phones)'</b></i>
 
 ##### Emulators
 | Name  | Version    | Platform | Active |
@@ -113,7 +113,7 @@ Only compatible with 14 games, all of which use the 3D engine and were released 
 
 Updates:
 
-— Added support for Symbian OS9.2. 
+— Added support for Symbian OS 9.2. 
 
 — Added icons for games.
 
@@ -121,7 +121,7 @@ Updates:
 
 Installation:
 
-1) Mophun Games Launcher v1.01.sis
+1) Mophun Games Launcher 1.01.sis
 
 2) GamesPack.sis
 
@@ -162,7 +162,7 @@ mpn-games should be placed in : /Data/MP/F0001092
 <details>
 <summary><b><i>Features of the Games</b></i></summary>
 
-— Most 3D and Multiplayer supported with Bluetooth
+— Most 3D and Multiplayer supported with Bluetooth.
 
 * 3D Graphics
 * Multiplayer
@@ -254,9 +254,7 @@ Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specia
 — More information check out <b><i>'[Mophun 3D database](https://github.com/ptnn0/Mophun/tree/main/Mophun%203D%20database)'</b></i>, Newer Mophun 3D SDK unavailable. All 3D mophun games released for Symbian.
 
 <details>
-<summary><b><i>Mophun 3D Games</b></i></summary>
-
-— <i><ins>Later 3D based mophun games</i></ins>
+<summary><b><i>Later 3D based mophun games</b></i></summary>
 
 - American Racing 3D
 - Anarchy Boxing 3D
