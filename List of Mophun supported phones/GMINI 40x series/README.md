@@ -1,6 +1,6 @@
 ### Gmini 400
 
-![S](GMINI_40x_series/21.png)
+<a href="#"><img src="21.png" width="800"></a>
 
 ### Gmini 402 Camcorder
 
