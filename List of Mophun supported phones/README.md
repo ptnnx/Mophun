@@ -61,7 +61,9 @@
 <a href="#"><img src="SX1.png" /></a>
 
 — The Siemens SX1 is a GSM mobile phone running version 1.2 of the Series 60 platform for the Symbian OS.
+
 — Mophun 3D support
+
 * <b>Release date</b>: Q3 2003
 * <b>Storage</b>: 16MB
 * <b>Display</b>: 176x220 (65,536 colours) TFT display
@@ -166,7 +168,7 @@
 <details>
 <summary><b>T310</b></summary>
 
-<a href="#"><img src="310.png" /></a>
+<a href="#"><img src="T310.png" /></a>
 </details>
 
 <details>
@@ -189,6 +191,6 @@
 | Tiger Telematics | GameTrac Gizmondo |
 | Voxtel | VS400 |
 
-* further PDA with emulators (from personal experience of T-Mobile MDA) |
+* further PDA with emulators (from personal experience of T-Mobile MDA)
 
 * Nokia N-Gage/QD doesn't support pure mophun, it's symbian after all. You probably meant that some games (such as Worms World Party) were written in Mophun, with libraries (such as Mophun.dll) added to them. But still, uploading a pure .mpn from Ensejż will not do much for you, because the game data is usually outside this file in separate folders, not in this file, as was the case with Sony Ericsson.
