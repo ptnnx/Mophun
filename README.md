@@ -174,7 +174,7 @@ mpn-games should be placed in : /Data/MP/F0001092
 
 |  S1   |  S2  |
 | --- | --- |
-| <a href="#"><img src="Extra/MGL1.jpg" /></a> | <a href="#"><img src="Extra/MGL2.jpg" /></a> |
+| <a href="#"><img src="Screenshots/Emulators/MGL1.png" /></a> | <a href="#"><img src="Screenshots/Emulators/MGL2.png" /></a> |
 
 | <ins><b>★ Installation ★</ins></b> |
 | ------------------------------------ |
@@ -184,7 +184,7 @@ mpn-games should be placed in : /Data/MP/F0001092
 ### 4mophun 
 
 <h1 align="center">
-        <a href="#"><img src="Extra/4mophun.jpg" width="200" /></a><br>
+        <a href="#"><img src="Screenshots/Emulators/4mophun.png" width="200" /></a><br>
 </h1>
 
 **4mophun** on Windows Mobile, you can run 4mophun on Windows through Microsoft's Device Emulator. Does not work with games that are locked (e.g. have a predefined IMEI recognition algorithm) or do not use the 3D engine.
