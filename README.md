@@ -239,6 +239,13 @@ mpn-games should be placed in : /Data/MP/F0001092
 | ![Screenshots](Screenshots/23.jpg) | ![Screenshots](Screenshots/24.jpg) | ![Screenshots](Screenshots/25.jpg) |
 | ![Screenshots](Screenshots/30.jpg) | ![Screenshots](Screenshots/26.jpg) | ![Screenshots](Screenshots/27..jpg) |
 | ![Screenshots](Screenshots/31.jpg) | ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
+| ![Screenshots](Screenshots/36.gif) | ![Screenshots](Screenshots/37.gif) |
+| ![Screenshots](Screenshots/38.gif) | ![Screenshots](Screenshots/39.gif) |
+
+![Screenshots](Screenshots/32.png)
+![Screenshots](Screenshots/33.png)
+![Screenshots](Screenshots/34.png)
+![Screenshots](Screenshots/35.png)
 
 ### MoRePhun
 A new, open source emulator by Luca91. It is only a proof of concept, as only a few opcodes and a couple of SDK APIs are emulated, and there is no heap. There is sprite and input support, as well as support for the collision API. It is compatible with a few small homebrews. Luca91 mentions the SDK API handler needs to be better organized.
