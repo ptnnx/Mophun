@@ -235,12 +235,14 @@ mpn-games should be placed in : /Data/MP/F0001092
 | ![Screenshots](Screenshots/10.gif) | ![Screenshots](Screenshots/12.jpg) | ![Screenshots](Screenshots/13.jpg) |
 | ![Screenshots](Screenshots/4.jpg) | ![Screenshots](Screenshots/16.gif) | ![Screenshots](Screenshots/17.jpg) |
 | ![Screenshots](Screenshots/18.jpg) | ![Screenshots](Screenshots/19.gif) | ![Screenshots](Screenshots/20.jpg) |
-| ![Screenshots](Screenshots/21.png) | ![Screenshots](Screenshots/22.png) | ![Screenshots](Screenshots/1.jpg) |
 | ![Screenshots](Screenshots/23.jpg) | ![Screenshots](Screenshots/24.jpg) | ![Screenshots](Screenshots/25.jpg) |
 | ![Screenshots](Screenshots/30.jpg) | ![Screenshots](Screenshots/26.jpg) | ![Screenshots](Screenshots/27..jpg) |
 | ![Screenshots](Screenshots/31.jpg) | ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
-| ![Screenshots](Screenshots/36.gif) | ![Screenshots](Screenshots/37.gif) |
+| ![Screenshots](Screenshots/36.gif) | ![Screenshots](Screenshots/37.gif) | ![Screenshots](Screenshots/1.jpg) |
 | ![Screenshots](Screenshots/38.gif) | ![Screenshots](Screenshots/39.gif) |
+
+![Screenshots](Screenshots/21.png)
+![Screenshots](Screenshots/22.png)
 
 ![Screenshots](Screenshots/32.png)
 ![Screenshots](Screenshots/33.png)
@@ -263,24 +265,24 @@ Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specia
 <details>
 <summary><b><i>Later 3D based mophun games</b></i></summary>
 
-- American Racing 3D
-- Anarchy Boxing 3D
-- Carmageddon 3D
-- Conflict Desert Storm 3D (Unavailable)
-- Conflict Global Storm 3D (Unavailable)
+- American Racing 3D [Racing]
+- Anarchy Boxing 3D [Sports]
+- Carmageddon 3D [Racing]
+- Conflict Desert Storm 3D [Shooting]
+- Conflict Global Storm 3D [Shooting]
 - The Da Vinci Code 3D
-- Fatal Arena 3D
-- Football Pro Contest 3D
-- Golf Pro Contest 1 3D
-- Golf Pro Contest 3D 2
-- Heli Attack 2 3D
-- Joe’s Treasure Quest 3D
-- Lock‘N Load Combat Arena 3D
-- Lock‘N Load Rise of War 3D
+- Fatal Arena 3D [Fighting]
+- Football Pro Contest 3D [Sports]
+- Golf Pro Contest 1 3D [Sports]
+- Golf Pro Contest 2 3D [Sports]
+- Heli Attack 2 3D [Shooting]
+- Joe’s Treasure Quest 3D [Platformer]
+- Lock‘N Load: Combat Arena 3D
+- Lock‘N Load: Rise of War 3D
 - Lock‘N Load 2 3D
-- Martial Arts 3D
-- Rally Pro Contest 3D
-- Worms World Party
+- Martial Arts 3D [Sports]
+- Rally Pro Contest 3D [Racing]
+- Worms World Party [Strategy]
 </details>
 
 ## Resources
