@@ -7,7 +7,7 @@
 </h1>
 <i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
 
-— <i>Mophun Supported devices check out <b>'[List of Mophun supported phones](https://github.com/ptnn0/Mophun/tree/main/List%20of%20Mophun%20supported%20phones)'</b></i>
+— <i>Mophun supported devices check out <b>'[List of Mophun supported phones](https://github.com/ptnn0/Mophun/tree/main/List%20of%20Mophun%20supported%20phones)'</b></i>
 
 ##### Emulators
 | Name  | Version    | Platform | Active |
@@ -103,6 +103,11 @@ An unofficial mod, created by Tuxality, boots encrypted games without the need t
 </details>
 
 ### Mophun Games Launcher
+
+|  S1   |  S2  |
+| --- | --- |
+| <a href="#"><img src="Screenshots/Emulators/MGL1.png" /></a> | <a href="#"><img src="Screenshots/Emulators/MGL2.png" /></a> |
+
 Only compatible with 14 games, all of which use the 3D engine and were released for Symbian. Russian-mod creted for N-series Edition (8.1 i.e. H70/72, N70.) and Synergenix Blaze-mod for N90 smartphone (displayresolution 352x416).
 
 <details>
@@ -160,7 +165,7 @@ mpn-games should be placed in : /Data/MP/F0001092
 </details>
 
 <details>
-<summary><b><i>Features of the Games</b></i></summary>
+<summary><b><i>Features</b></i></summary>
 
 — Most 3D and Multiplayer supported with Bluetooth.
 
@@ -172,31 +177,30 @@ mpn-games should be placed in : /Data/MP/F0001092
 * Multi-Language Option (English, French, German, Italian, Spanish)
 </details>
 
-|  S1   |  S2  |
-| --- | --- |
-| <a href="#"><img src="Screenshots/Emulators/MGL1.png" /></a> | <a href="#"><img src="Screenshots/Emulators/MGL2.png" /></a> |
+<details>
+<summary><b><i>How to install Mophun Games Launcher on Symbian/EKA2L1</b></i></summary>
 
 | <ins><b>★ Installation ★</ins></b> |
 | ------------------------------------ |
 | <b>Step 1</b>: <i>Install the <code>mophun_games_launcher.sis</code></i> | 
 | <b>Step 2</b>: <i>Move/Extract the <code>mp/f0001092</code> folder to <code>com.github.eka2l1/files/data/drives/e/data/</code> Paste here.</i> |
+</details>
 
 ### 4mophun 
 
 <h1 align="center">
         <a href="#"><img src="Screenshots/Emulators/4mophun.png" width="200" /></a><br>
+        <a href="#"><img src="Screenshots/Emulators/4mophun_1.png" width="200" /></a><br>
 </h1>
 
 **4mophun** on Windows Mobile, you can run 4mophun on Windows through Microsoft's Device Emulator. Does not work with games that are locked (e.g. have a predefined IMEI recognition algorithm) or do not use the 3D engine.
 
-— There are 3 versions : QCIF +, QVGA [240x320] and VGA [176x220].
-
-— The exe file exists in two versions, mophunVGA.exe and mophunQVGA.exe. The first one is used to emulate games on smartphones with a display resolution of 176x220, but it also works on PocketPCs with a VGA display. The second file is intended for all devices with QVGA display 240x320. Interestingly, each program emulates the game a little differently, for example, the classic mophun.exe can't play background music on some games (only sounds work), I also came across games that it couldn't run at all (Carmageddon), and its stability was about slightly worse than the QVGA version of the emulator, which handled all the titles tested.
+— There are 3 versions : mophunVGA [176x220], mophunQVGA [240x320] and QCIF +. The first one is used to emulate games on smartphones with a display resolution of 176x220, but it also works on PocketPCs with a VGA display. The second file is intended for all devices with QVGA display 240x320. Interestingly, each program emulates the game a little differently, for example, the classic mophun.exe can't play background music on some games (only sounds work), I also came across games that it couldn't run at all (Carmageddon), and its stability was about slightly worse than the QVGA version of the emulator, which handled all the titles tested.
 
 — The emulator should work fine on all Smartphones and PocketPCs (e.g. Motorola MPx200 / 220, Qtek 8310, 8500, HTC MTeoR, HTC Typhoon [WM 2003 SE], Wizard, Universal or TyTN, ASUS P-750).
 
 <details>
-<summary><i><b>Compatibility list</i></b></summary>
+<summary><i><b>Compatibility games list</i></b></summary>
 
 | Name        | Code name     | Status |
 | ----------- |:-------------:| -----:|
@@ -229,6 +233,8 @@ mpn-games should be placed in : /Data/MP/F0001092
 | --- | --- | --- |
 | ![Screenshots](Screenshots/11.jpg) | ![Screenshots](Screenshots/14.jpg) | ![Screenshots](Screenshots/15.jpg) |
 
+★ QVGA [240x320] ★
+
 |      |      |       |
 | ---- | ----- | ----- |
 | ![Screenshots](Screenshots/5.jpg) | ![Screenshots](Screenshots/7.jpg) | ![Screenshots](Screenshots/8.jpg) |
@@ -236,10 +242,14 @@ mpn-games should be placed in : /Data/MP/F0001092
 | ![Screenshots](Screenshots/4.jpg) | ![Screenshots](Screenshots/16.gif) | ![Screenshots](Screenshots/17.jpg) |
 | ![Screenshots](Screenshots/18.jpg) | ![Screenshots](Screenshots/19.gif) | ![Screenshots](Screenshots/20.jpg) |
 | ![Screenshots](Screenshots/23.jpg) | ![Screenshots](Screenshots/24.jpg) | ![Screenshots](Screenshots/25.jpg) |
-| ![Screenshots](Screenshots/30.jpg) | ![Screenshots](Screenshots/26.jpg) | ![Screenshots](Screenshots/27..jpg) |
-| ![Screenshots](Screenshots/31.jpg) | ![Screenshots](Screenshots/28.jpg) | ![Screenshots](Screenshots/29.jpg) |
-| ![Screenshots](Screenshots/36.gif) | ![Screenshots](Screenshots/37.gif) | ![Screenshots](Screenshots/1.jpg) |
-| ![Screenshots](Screenshots/38.gif) | ![Screenshots](Screenshots/39.gif) |
+| ![Screenshots](Screenshots/26.jpg) | ![Screenshots](Screenshots/27..jpg) | ![Screenshots](Screenshots/28.jpg) |
+| ![Screenshots](Screenshots/29.jpg) | ![Screenshots](Screenshots/36.gif) | ![Screenshots](Screenshots/37.gif) |
+| ![Screenshots](Screenshots/1.jpg) | ![Screenshots](Screenshots/38.gif) | ![Screenshots](Screenshots/39.gif) |
+
+★ VGA [176x220] ★
+
+![Screenshots](Screenshots/30.jpg)
+![Screenshots](Screenshots/31.jpg)
 
 ![Screenshots](Screenshots/21.png)
 ![Screenshots](Screenshots/22.png)
