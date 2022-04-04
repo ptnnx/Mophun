@@ -1,6 +1,28 @@
+★ <ins>First generation</ins> ★
+
+Belong to: T68, T100, T105, T200, Z200, T600, T226, T230, T290, T300, T310
+
+— Features: No support for downloading games, or playing only on Mophun.
+
+— Screen resolution is not more than 96x65 ... 128x160, there are both monochrome and color. Number of colors up to 4096.
+
+— 1.0G - Models without Mophun: T68, T100, T105, T200, Z200, T600
+
+— 1.5G - Models with Mophun: T226, T230, T290, T300, T310
+
+★ <ins>Second generation</ins> ★
+
+Belong to: T610, T630, Z600
+
+— Features: Java MIDP 1.0 (JP-1) support has been added to Mophun, the presence of Bluetooth.
+
+— Screen resolution 128x128, TFT displays appeared, the number of colors up to 65536. For the first time, a built-in camera appeared, a resolution of 0.3 MP (up to VGA).
+
+— 2.0G - Models: T610, T630, Z600
+
 | Device | Models |
 | ------ | ------ |
-| Sony Ericsson | T68 (T68i, T68m, T68ie, T68a), T100, T226, T230, T237, T238, T290 (T290a, T290i, T290c), T300/R201, T302, T306, T310, T312, T316, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910 (P910i), Z208, Z300, Z600, Z608 |
+| Sony Ericsson | T68 (T68i, T68m, T68ie, T68a), T100, T226, T230, T237, T238, T290 (T290a, T290i, T290c), T300, T302, T306, T310, T312, T316, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910 (P910i), Z208, Z300, Z600, Z608 |
 | Nokia (Symbian S60/UIQ) | 3230, 3250, 3600, 3620, 3650, 3660, 6260, 6600, 6620, 6630, 6670, 6680, 6681, 6682, 6730, 7610, 7650, E60, E61, E70, N70, N71, N72, N73 (slow), N80, N91, N92, N93, N95, N-Gage*, N-Gage QD |
 | Windows Mobile | All Windows Mobile Smartphones running at a resolution of 176x220 or 240x320 |
 | Motorola | A920, A925, A1000 |
@@ -16,6 +38,8 @@
 * Nokia N-Gage/QD doesn't support pure mophun, it's symbian after all. You probably meant that some games (such as Worms World Party) were written in Mophun, with libraries (such as Mophun.dll) added to them. But still, uploading a pure .mpn from Ensejż will not do much for you, because the game data is usually outside this file in separate folders, not in this file, as was the case with Sony Ericsson.
 
 # Mobiles
+
+### Archos
 
 <details>
 <summary><b>GMINI_400</b></summary>
@@ -65,6 +89,8 @@
 * <b>Display</b>: QVGA, touchscreen, LCD
 </details>
 
+### Voxtel
+
 <details>
 <summary><b>VS400</b></summary>
 
@@ -74,6 +100,9 @@
 
 * <b>Release date</b>: October 2005
 </details>
+
+### Siemens
+
 <details>
 <summary><b>SX1</b></summary>
 
@@ -88,6 +117,9 @@
 * <b>Display</b>: 176x220 (65,536 colours) TFT display
 * <b>OS</b>: Symbian 6.1
 </details>
+
+### Sendo
+
 <details>
 <summary><b>SendoX</b></summary>
 
@@ -99,6 +131,8 @@
 * <b>Storage</b>: 32MB
 * <b>Display</b>: TFT, 65K colors with 176 x 220 pixels (2.2 inches, 35 x 44 mm)
 </details>
+
+### Motorola
 
 <details>
 <summary><b>A920</b></summary>
@@ -140,6 +174,8 @@
 * <b>OS</b>: Symbian OS 7.0, UIQ 2.1
 </details>
 
+### Nokia
+
 <details>
 <summary><b>N-Gage</b></summary>
 
@@ -167,6 +203,8 @@
 * <b>OS</b>: Symbian 6.1, Series 60 1.0
 </details>
 
+### Tiger Telematics
+
 <details>
 <summary><b>GameTrac Gizmondo</b></summary>
 
@@ -183,6 +221,8 @@
 * <b>Display</b>: 72 mm (2.8 inch) TFT screen, 320 × 240 pixels
 * <b>OS</b>: Windows CE
 </details>
+
+#### Sony Ericsson
 
 <details>
 <summary><b>T68/T68i</b></summary>
@@ -210,6 +250,14 @@
 <a href="#"><img src="T230.png" /></a>
 </details>
 
+
+<details>
+<summary><b>T290</b></summary>
+
+<a href="#"><img src="T290.png" /></a>
+
+</details>
+
 <details>
 <summary><b>T300</b></summary>
 
@@ -231,9 +279,16 @@
 </details>
 
 <details>
-<summary><b>T290</b></summary>
+<summary><b>T630</b></summary>
 
-<a href="#"><img src="T290.png" /></a>
+<a href="#"><img src="T630.png" /></a>
+
+</details>
+
+<details>
+<summary><b>T618 (Chinese)</b></summary>
+
+<a href="#"><img src="T618_C.png" /></a>
 
 </details>
 
@@ -257,12 +312,6 @@
 
 </details>
 
-<details>
-<summary><b>T618 (Chinese)</b></summary>
-
-<a href="#"><img src="T618_C.png" /></a>
-
-</details>
 
 <details>
 <summary><b>Z300</b></summary>
@@ -271,9 +320,3 @@
 
 </details>
 
-<details>
-<summary><b>T290</b></summary>
-
-<a href="#"><img src="T290.png" /></a>
-
-</details>
