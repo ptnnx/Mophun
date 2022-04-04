@@ -5,7 +5,7 @@
 | Windows Mobile | All Windows Mobile Smartphones running at a resolution of 176x220 or 240x320 |
 | Motorola | A920, A925, A1000 |
 | Siemens | SX1 |
-| Archos | Gmini 400, Gmini 402 (Gmini 402 Camcorder), PMA400, AV700 (AV700TV) |
+| Archos | Gmini 400, Gmini 402 (Gmini 402 Camcorder), PMA400, PMA430, AV700 (AV700TV) |
 | Medion, PAVO, TTPCom | MD95674 |
 | Sendo | SendoX |
 | Tiger Telematics | GameTrac Gizmondo |
@@ -227,5 +227,53 @@
 <summary><b>T610</b></summary>
 
 <a href="#"><img src="T610.png" /></a>
+
+</details>
+
+<details>
+<summary><b>T290</b></summary>
+
+<a href="#"><img src="T290.png" /></a>
+
+</details>
+
+<details>
+<summary><b>T637</b></summary>
+
+<a href="#"><img src="T637.png" /></a>
+
+</details>
+
+<details>
+<summary><b>P908/P910</b></summary>
+
+* P908
+
+<a href="#"><img src="P908.png" /></a>
+
+* P910
+
+<a href="#"><img src="P910.png" /></a>
+
+</details>
+
+<details>
+<summary><b>T618 (Chinese)</b></summary>
+
+<a href="#"><img src="T618_C.png" /></a>
+
+</details>
+
+<details>
+<summary><b>Z300</b></summary>
+
+<a href="#"><img src="Z300.png" /></a>
+
+</details>
+
+<details>
+<summary><b>T290</b></summary>
+
+<a href="#"><img src="T290.png" /></a>
 
 </details>
