@@ -20,10 +20,12 @@ Belong to: T610, T630, Z600
 
 — 2.0G - Models: T610, T630, Z600
 
+### All models
+
 | Device | Models |
 | ------ | ------ |
 | Sony Ericsson | T68 (T68i, T68m, T68ie, T68a), T100, T226, T230, T237, T238, T290 (T290a, T290i, T290c), T300, T302, T306, T310, T312, T316, T610 (T618 in China), T616, T618, T628, T630, T637, P800, P802, P900, P908, P910 (P910i), Z208, Z300, Z600, Z608 |
-| Nokia (Symbian S60/UIQ) | 3230, 3250, 3600, 3620, 3650, 3660, 6260, 6600, 6620, 6630, 6670, 6680, 6681, 6682, 6730, 7610, 7650, E60, E61, E70, N70, N71, N72, N73 (slow), N80, N91, N92, N93, N95, N-Gage*, N-Gage QD |
+| Nokia (Symbian S60/UIQ) | 3230, 3250, 3600, 3620, 3650, 3660, 6260, 6290, 6600, 6620, 6630, 6670, 6680, 6681, 6682, 6730, 7610, 7650, C5-00, E51, E60, E61, E70, N70, N71, N72, N73 (slow), N76, N80, N91, N92, N93, N95, N-Gage*, N-Gage QD |
 | Windows Mobile | All Windows Mobile Smartphones running at a resolution of 176x220 or 240x320 |
 | Motorola | A920, A925, A1000 |
 | Siemens | SX1 |
@@ -33,7 +35,15 @@ Belong to: T610, T630, Z600
 | Tiger Telematics | GameTrac Gizmondo |
 | Voxtel | VS400 |
 
-* further PDA with emulators (from personal experience of T-Mobile MDA)
+### 3D supported mophun devices
+
+| Device | Models |
+| ------ | ------ |
+| Symbian UIQ/S60 devices with N-Gage/QD | + |
+| Sony Ericsson | P800, P802, P900, P908, P910 (P910i) |
+| Motorola | A920, A925 |
+| Archos | Gmini 400, Gmini 402 (Gmini 402 Camcorder), PMA400, PMA430, AV700 (AV700TV) |
+| Siemens| SX1 |
 
 * Nokia N-Gage/QD doesn't support pure mophun, it's symbian after all. You probably meant that some games (such as Worms World Party) were written in Mophun, with libraries (such as Mophun.dll) added to them. But still, uploading a pure .mpn from Ensejż will not do much for you, because the game data is usually outside this file in separate folders, not in this file, as was the case with Sony Ericsson.
 
