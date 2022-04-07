@@ -9,6 +9,9 @@
 | users.atw.hu | Yes | [Link](http://users.atw.hu/mobiltelefon5/game.htm) |
 | sites.google.com | Yes | [Link](https://sites.google.com/site/trpsthakur/sony-games) |
 | sonyericsson-club.narod.ru | Yes | [Link](http://sonyericsson-club.narod.ru/gamemoph.html) |
+| crazyapple.narod.ru | Yes | [Link](http://crazyapple.narod.ru/games.html) |
+| mobile-ericsson.narod.ru | Yes | [Link](http://mobile-ericsson.narod.ru/mophun.html) |
+| dalbar.wz.cz | Yes | [Link](http://dalbar.wz.cz/SET620/Mophun/mophun.htm) |
 | erics-son.narod.ru | Yes | [Link](http://www.erics-son.narod.ru/games.html) |
 | romulset3-0.narod.ru | Yes | [Link](http://romulset3-0.narod.ru/Games12.html) |
 | set300.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20090511110500/http://www.set300.wz.cz/hry.html) |
@@ -88,6 +91,7 @@
 * https://phoneky.com/symbian-games/?id=z0z6863
 * https://phoneky.com/symbian-games/?id=z0z6864
 * https://phoneky.com/symbian-games/?id=z0z7092
+* http://simbian8.narod.ru/games.htm
 * https://www.dertz.in/games/download-Mophuns-Launcher-S60v3-free-symbian-mobile-game-31193.htm
 * http://dodi21.jw.lt/Mophun%20launcher%20%20pack%20game%20s60v3
 * https://profismart.org/f-36373.php
@@ -173,6 +177,7 @@
 ★ Documents
 
 * https://forum.motofan.ru/index.php?act=Attach&type=post&id=83446
+* http://funkmasters.szm.com/soft.htm
 
 ### Dead sites (Archived)
 
