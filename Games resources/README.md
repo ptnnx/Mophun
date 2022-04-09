@@ -1,22 +1,22 @@
 ### Sites (.mpn)
 
-| Site | Active | Link? |
-| ----- | ------ | ----- |
-| seclub.org | Yes | [Link](https://seclub.org/dn.php?d=4&r=2) |
-| myt230.narod.ru | Yes | [Link](http://myt230.narod.ru/aboutmophun.html) |
+| Site | Active | Link | Scraped |
+| ----- | ------ | ----- | ----- |
+| seclub.org | Yes | [Link](https://seclub.org/dn.php?d=4&r=2) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/Seclub_Mophun_games.7z) |
+| myt230.narod.ru | Yes | [Link](http://myt230.narod.ru/aboutmophun.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/myt230.narod.ru.zip) |
 | xmobila.narod.ru | Yes | [Link](http://www.xmobila.narod.ru/game.html) |
-| t610cce.narod.ru | No (Archived) | [Link](https://web.archive.org/web/*/http://www.t610cce.narod.ru*) |
-| users.atw.hu | Yes | [Link](http://users.atw.hu/mobiltelefon5/game.htm) |
-| sites.google.com | Yes | [Link](https://sites.google.com/site/trpsthakur/sony-games) |
-| sonyericsson-club.narod.ru | Yes | [Link](http://sonyericsson-club.narod.ru/gamemoph.html) |
+| t610cce.narod.ru | No (Archived) | [Link](https://web.archive.org/web/*/http://www.t610cce.narod.ru*) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/t610cc.narod.ru.zip) |
+| users.atw.hu | Yes | [Link](http://users.atw.hu/mobiltelefon5/game.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/users.atw.hu.zip)
+| sites.google.com_trpsthakur | Yes | [Link](https://sites.google.com/site/trpsthakur/sony-games) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/sites.google.com_trpsthakur.zip) |
+| sonyericsson-club.narod.ru | Yes | [Link](http://sonyericsson-club.narod.ru/gamemoph.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/Sonyericsson-club.narod.ru.zip) |
 | crazyapple.narod.ru | Yes | [Link](http://crazyapple.narod.ru/games.html) |
 | mobile-ericsson.narod.ru | Yes | [Link](http://mobile-ericsson.narod.ru/mophun.html) |
 | dalbar.wz.cz | Yes | [Link](http://dalbar.wz.cz/SET620/Mophun/mophun.htm) |
-| erics-son.narod.ru | Yes | [Link](http://www.erics-son.narod.ru/games.html) |
-| romulset3-0.narod.ru | Yes | [Link](http://romulset3-0.narod.ru/Games12.html) |
-| set300.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20090511110500/http://www.set300.wz.cz/hry.html) |
-| pcbanan.wz.cz | Yes | [Link](http://pcbanan.wz.cz/index.php) |
-| terewong.com | Yes | [Link](http://terewong.com/mytoys0ab12.htm#16) |
+| erics-son.narod.ru | Yes | [Link](http://www.erics-son.narod.ru/games.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/erics-son.narod.ru.zip) |
+| romulset3-0.narod.ru | Yes | [Link](http://romulset3-0.narod.ru/Games12.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/romulset3-0.narod.ru.zip) |
+| set300.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20090511110500/http://www.set300.wz.cz/hry.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/set300.wz.cz-hry.zip) |
+| pcbanan.wz.cz | Yes | [Link](http://pcbanan.wz.cz/index.php) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/pcbanan.wz.cz.zip) |
+| terewong.com | Yes | [Link](http://terewong.com/mytoys0ab12.htm#16) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/terewong.com.zip) |
 | m.wangchao.net.cn | Yes | [Link](http://m.wangchao.net.cn/it/scdetail_48618.html) |
 | forumponsel.mw.It | Yes | [Link](http://forumponsel.mw.lt/mophun) |
 | m.mobile01.com | Yes | [Link](https://m.mobile01.com/topicdetail.php?f=121&t=3712) |
@@ -24,19 +24,19 @@
 | kowalczyktomasz.atspace.com | Yes | [Link](http://kowalczyktomasz.atspace.com/old_games.html) |
 | javaonthebrain.com | Yes | [Link](http://www.javaonthebrain.com/java/graviton/about.html) |
 | coreyshotsite2.tripod.com | Yes | [Link](https://coreyshotsite2.tripod.com/id23.html) |
-| ngager.boom.ru | No (Archived) | [Link](https://web.archive.org/web/20090213111940/http://ngager.boom.ru/mophun.htm) |
-| all4t310.private.pl | No (Archived) | [Link](https://web.archive.org/web/20061011225449/http://www.all4t310.private.pl/gry/caloscgry.htm) |
-| tsixten.co.uk | No (Archived) | [Link](https://web.archive.org/web/20091002215929/http://www.tsixten.co.uk/games/index.htm) |
-| t-610.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20071007165033/http://t-610.wz.cz/body8.html) |
-| mobile-stars.ru | No (Archived) | [Link](https://web.archive.org/web/20071022043458/http://www.mobile-stars.ru/download/sony/mophun/) |
-| 8ung.at | No (Archived) | [Link](https://web.archive.org/web/20050407190910/http://www.8ung.at/is4u/) |
+| ngager.boom.ru | No (Archived) | [Link](https://web.archive.org/web/20090213111940/http://ngager.boom.ru/mophun.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/ngager.boom.ru.zip) |
+| all4t310.private.pl | No (Archived) | [Link](https://web.archive.org/web/20061011225449/http://www.all4t310.private.pl/gry/caloscgry.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/all4t310.private.pl.zip) |
+| tsixten.co.uk | No (Archived) | [Link](https://web.archive.org/web/20091002215929/http://www.tsixten.co.uk/games/index.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/tsixten.co.uk.zip) |
+| t-610.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20071007165033/http://t-610.wz.cz/body8.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/t-610.wz.cz.zip) |
+| mobile-stars.ru | No (Archived) | [Link](https://web.archive.org/web/20071022043458/http://www.mobile-stars.ru/download/sony/mophun/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/mobile-stars.ru.zip) |
+| 8ung.at | No (Archived) | [Link](https://web.archive.org/web/20050407190910/http://www.8ung.at/is4u/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/8ung.at.zip) |
 | mophungames.com | No (Archived) | [Link](https://web.archive.org/web/20030423103452/http://www.mophungames.com/) |
 | t610elinks.tripod.com | No (Archived) | [Link](https://web.archive.org/web/20050211004130/https://t610elinks.tripod.com/) |
-| rudy211.nsf.pl | No (Archived) | [Link](https://web.archive.org/web/20050307183435/http://www.rudy211.nsf.pl/gry.htm) |
+| rudy211.nsf.pl | No (Archived) | [Link](https://web.archive.org/web/20050307183435/http://www.rudy211.nsf.pl/gry.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/rudy211.nsf.pl.zip) |
 | gemmyplanet.com | No (Archived) | [Link](https://web.archive.org/web/20080220111146/http://www.gemmyplanet.com/BrowseGame.jsp?gametype=All&phonemodel=2) |
 | binary-graffitti.com | No (Archived) | [Link](https://web.archive.org/web/20030811132853/http://www.binary-graffitti.com:80/Demos/) |
-| sonyericsson.paradisezone.net | No (Archived) | [Link](https://web.archive.org/web/20080624090600/http://sonyericsson.paradisezone.net/) |
-| clubsonyericsson.com | No (Archived) | [Link](https://web.archive.org/web/20051204100232/http://www.clubsonyericsson.com/resources/games/t300/) |
+| sonyericsson.paradisezone.net | No (Archived) | [Link](https://web.archive.org/web/20080624090600/http://sonyericsson.paradisezone.net/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/sonyericsson.paradisezone.net-mpn.zip) |
+| clubsonyericsson.com | No (Archived) | [Link](https://web.archive.org/web/20051204100232/http://www.clubsonyericsson.com/resources/games/t300/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/clubsonyericsson.com.zip) |
 | mobiledia.com | No (Archived) | [Link](https://web.archive.org/web/20031203212528/http://www.mobiledia.com/phones/t310/index.html) |
 | netova-plantaz.unas.cz | No (Archived) | [Link](https://web.archive.org/web/20121116113014/http://netova-plantaz.unas.cz/category/mophun-hry) |
 
