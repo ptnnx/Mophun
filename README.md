@@ -174,9 +174,9 @@ Synergenix Blaze-mod for N90 smartphone (display resolution 352x416)
 - Golf Pro Contest 3D 2 1.0.1
 - Heli Attack 2
 - Joe’s Treasure Quest 3D
-- Lock‘N Load: Combat Arena 1.20.0
-- Lock‘N Load: Rise of War 1.01
-- Lock‘N Load 2 1.1.0
+- Lock‘N Load: Combat Arena 3D 1.20.0
+- Lock‘N Load: Rise of War 3D 1.01
+- Lock‘N Load 2 3D 1.1.0
 - Martial Arts 3D 1.0
 - Rally Pro Contest 3D 1.30
 - Worms World Party (won't work with emulator installed)
@@ -208,23 +208,19 @@ Synergenix Blaze-mod for N90 smartphone (display resolution 352x416)
 <summary><b><i>Screenshots</b></i></summary>
 
 | Joe’s Treasure Quest 3D | Joe’s Treasure Quest 3D | Carmageddon 3D | Carmageddon 3D | Anarchy Boxing 3D | Anarchy Boxing 3D |
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Joe's%20Treasure%20Quest%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Joe's%20Treasure%20Quest%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Carmageddon%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Carmageddon%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Anarchy%20Boxing%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Anarchy%20Boxing%203D_2.png) |
 
-| Rally Pro Contest | Rally Pro Contest | Football Pro Contest | Football Pro Contest |
-| ---- | ---- | ---- | ---- |
-| ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Rally%20Pro%20Contest%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Rally%20Pro%20Contest%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Football%20Pro%20Contest%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Football%20Pro%20Contest%203D_2.png) |
+| Rally Pro Contest | Rally Pro Contest | Football Pro Contest | Football Pro Contest | Martial Arts 3D | Martial Arts 3D |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Rally%20Pro%20Contest%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Rally%20Pro%20Contest%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Football%20Pro%20Contest%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Football%20Pro%20Contest%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Martial%20Arts%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Martial%20Arts%203D_2.png) |
 
-| Golf Pro Contest | Golf Pro Contest | Golf Pro Contest 2 | Golf Pro Contest 2 |
-| ---- | ---- | ---- | ---- |
-| ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%202%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%202%203D_2.png) |
-
-| Martial Arts 3D | Martial Arts 3D | The Da Vinci Code 3D | The Da Vinci Code 3D |
-| ---- | ---- | ---- | ---- |
-| ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Martial%20Arts%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Martial%20Arts%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/The%20Da%20Vinci%20Code%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/The%20Da%20Vinci%20Code%203D_2.png) |
+| Golf Pro Contest | Golf Pro Contest | Golf Pro Contest 2 | Golf Pro Contest 2 | The Da Vinci Code 3D | The Da Vinci Code 3D |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%202%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Golf%20Pro%20Contest%202%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/The%20Da%20Vinci%20Code%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/The%20Da%20Vinci%20Code%203D_2.png) |
 
 | Lock‘N Load: Rise of War | Lock‘N Load: Rise of War | Lock‘N Load: Combat Arena | Lock‘N Load: Combat Arena | Lock‘N Load 2 | Lock‘N Load 2 |
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Lock%20'N%20Load%20-%20Rise%20Of%20War%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Lock%20'N%20Load%20-%20Rise%20Of%20War%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Lock%20'N%20Load%20-%20Combat%20Arena%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Lock%20'N%20Load%20-%20Combat%20Arena%203D_2.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Lock%20'N%20Load%202%203D_1.png) | ![Screenshots](https://github.com/ptnn0/Mophun/blob/56afc90d0ce59cd810ee0087c4f1c689a9db9e76/Screenshots/Emulators/Lock%20'N%20Load%202%203D_2.png) |
 
 </details>
