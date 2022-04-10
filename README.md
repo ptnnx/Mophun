@@ -1,26 +1,21 @@
+### Mophun
+
 <h1 align="center">
   <br>
   <a href="#"><img src="mophun_logo.png" alt="Mophun" width="160"></a>
-  <br>
-  Mophun
-  <br>
 </h1>
 <i><h6 align="center"><b>Mophun</b> is a computing platform used to run portable code on embedded and mobile devices. It was designed by Synergenix Interactive. It develops games in the C and C++ programming languages</i></h6>
 
-★ <i><b>[List of Mophun supported phones](https://github.com/ptnn0/Mophun/tree/main/List%20of%20Mophun%20supported%20phones)</i></b> : Sony Ericsson, Motorola, Nokia, Archos, etc..
+» <i><b>[List of Mophun supported phones](https://github.com/ptnn0/Mophun/tree/main/List%20of%20Mophun%20supported%20phones)</i></b>
 
-<details>
+» <i><b>Emulators</i></b>
 
-<summary><i><b>Emulators</summary></b></i>
-
-| Name  | Version    | Platform | Active |
-| ---------- | ---------- | --------- | ------ |
-| [Mophun-mod](https://emulation.gametechwiki.com/index.php/Mophun) | 2.5.4 Alpha 2   | Windows | Yes (tuxality-mod) |
-| Mophun games launcher  | 1.01/unsigned | Symbian | No |
-| 4mophun    | 1.1 | Windows Mobile | No |
-| MoRePhun | POC | Windows | Yes |
-
-</details>
+| Name | Platform | Active |
+| ---------- | -------- | ------ |
+| [Mophun-mod](https://emulation.gametechwiki.com/index.php/Mophun)| Windows | Yes (tuxality-mod) |
+| Mophun Games Launcher | Symbian | No |
+| 4mophun    | Windows Mobile | No |
+| MoRePhun | Windows | Yes |
 
 **Mophun** is an official Mophun emulator. It was created by Synergenix Interactive, the creators of Mophun, for the Mophun SDK (latest version 2.5). It was designed for development and demos. As such, encrypted or compressed games do not boot. However, this has been worked around, both by decrypting the files and decompressing them (except for compressed resources), and modifying the emulator to perform decryption on the fly, albeit only when opening them via the Open menu. 
 
@@ -113,7 +108,7 @@ An unofficial mod created by Tuxality, boots encrypted games without the need to
 | --- | --- |
 | <a href="#"><img src="Screenshots/Emulators/MGL1.png" /></a> | <a href="#"><img src="Screenshots/Emulators/MGL2.png" /></a> |
 
-Only compatible with 14 games, all of which use the 3D engine and were released for Symbian OS.
+Only compatible with 14 games (2 games doesn't work), all of which use the 3D engine and were released for Symbian OS.
 
 <details>
 <summary><b><i>Versions</b></i></summary>
@@ -261,7 +256,10 @@ Synergenix Blaze-mod for N90 smartphone (display resolution 352x416)
 
 </details>
 
-### Screenshots
+### MoRePhun
+A new and open source emulator by Luca91. It is only a proof of concept, as only a few opcodes and a couple of SDK APIs are emulated, and there is no heap. There is sprite and input support, as well as support for the collision API. It is compatible with a few small homebrews. Luca91 mentions the SDK API handler needs to be better organized.
+
+#### Screenshots
 
 | American Racing 3D | Anarchy Boxing 3D | Fatal Arena 3D |
 | --- | --- | --- |
@@ -298,18 +296,16 @@ Synergenix Blaze-mod for N90 smartphone (display resolution 352x416)
 ![Screenshots](Screenshots/34.png)
 ![Screenshots](Screenshots/35.png)
 
-### MoRePhun
-A new and open source emulator by Luca91. It is only a proof of concept, as only a few opcodes and a couple of SDK APIs are emulated, and there is no heap. There is sprite and input support, as well as support for the collision API. It is compatible with a few small homebrews. Luca91 mentions the SDK API handler needs to be better organized.
-
 ### Mophun SDK
 Mophun was a mobile phone games SDK, it was released in 2002, C based SDK specialised to game development for mobile devices. It was made possible by Synergenix and it was coming with a free license to develop games. Mophun SDK allowed creation of games for the Symbian OS platform without the burned of the complexity of Symbian OS.
 
 [Mophun SDK 2.5](http://tuxality.net/public/MophunSDK_2_5.zip) or [here](https://vetusware.com/download/Mophun%20SDK%202.5/?id=17165)
 
 # Mophun 3D support
-— There are two versions of Mophun 2D and 3D, for low-end (Sony Ericsson T3xx, T6xx devices) and high-end handsets (Symbian UIQ/S60 devices with N-Gage/QD) and it's often used to provide embedded (pre-installed) games on mobile phone handsets.
 
-— More information find out <b><i>[Mophun 3D database](https://github.com/ptnn0/Mophun/tree/main/Mophun%203D%20database)</b></i>, Newer Mophun 3D SDK is unavailable. All 3D mophun games released for Symbian UIQ/S60.
+— There are two versions of Mophun 2D and 3D, for low-end (Sony Ericsson T3xx, T6xx devices) and high-end handsets (Symbian UIQ/S60 devices with N-Gage/QD and Windows Mobile) and it's often used to provide embedded (pre-installed) games on mobile phone handsets.
+
+— More information find out <b><i>[Mophun 3D database](https://github.com/ptnn0/Mophun/tree/main/Mophun%203D%20database)</b></i> and <b><i>[3D supported mophun devices](https://github.com/ptnn0/Mophun/tree/main/List%20of%20Mophun%20supported%20phones)</b></i>, Newer Mophun 3D SDK is unavailable. All 3D mophun games released for Symbian UIQ/S60 and Windows Mobile.
 
 <details>
 <summary><b><i>Later 3D based mophun games</b></i></summary>
