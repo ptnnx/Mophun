@@ -4,8 +4,8 @@
 | ----- | ------ | ----- | ----- |
 | seclub.org | Yes | [Link](https://seclub.org/dn.php?d=4&r=2) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/Seclub_Mophun_games.7z) |
 | myt230.narod.ru | Yes | [Link](http://myt230.narod.ru/aboutmophun.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/myt230.narod.ru.zip) |
-| xmobila.narod.ru | Yes | [Link](http://www.xmobila.narod.ru/game.html) |
-| t610cce.narod.ru | No (Archived) | [Link](https://web.archive.org/web/*/http://www.t610cce.narod.ru*) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/t610cc.narod.ru.zip) |
+| xmobila.narod.ru | Yes | [Link](http://www.xmobila.narod.ru/game.html) | Linked with t610cce.narod.ru
+| t610cce.narod.ru | Yes | [Link](http://t610cce.narod.ru/games_m.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/t610cc.narod.ru.zip) |
 | users.atw.hu | Yes | [Link](http://users.atw.hu/mobiltelefon5/game.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/users.atw.hu.zip)
 | sites.google.com_trpsthakur | Yes | [Link](https://sites.google.com/site/trpsthakur/sony-games) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/sites.google.com_trpsthakur.zip) |
 | sonyericsson-club.narod.ru | Yes | [Link](http://sonyericsson-club.narod.ru/gamemoph.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/Sonyericsson-club.narod.ru.zip) |
@@ -15,18 +15,10 @@
 | dalbar.wz.cz | Yes | [Link](http://dalbar.wz.cz/SET620/Mophun/mophun.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/dalbar.wz.cz.zip) |
 | erics-son.narod.ru | Yes | [Link](http://www.erics-son.narod.ru/games.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/erics-son.narod.ru.zip) |
 | romulset3-0.narod.ru | Yes | [Link](http://romulset3-0.narod.ru/Games12.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/romulset3-0.narod.ru.zip) |
-| set300.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20090511110500/http://www.set300.wz.cz/hry.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/set300.wz.cz-hry.zip) |
 | pcbanan.wz.cz | Yes | [Link](http://pcbanan.wz.cz/index.php) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/pcbanan.wz.cz.zip) |
 | t610.ru | Yes | [Link](http://www.t610.ru/games.php) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/t610.ru.zip) |
 | terewong.com | Yes | [Link](http://terewong.com/mytoys0ab12.htm#16) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/terewong.com.zip) |
-| m.wangchao.net.cn | Yes | [Link](http://m.wangchao.net.cn/it/scdetail_48618.html) |
-| forumponsel.mw.It | Yes | [Link](http://forumponsel.mw.lt/mophun) |
-| m.mobile01.com | Yes | [Link](https://m.mobile01.com/topicdetail.php?f=121&t=3712) |
-| joescat.com | Yes | [Link](http://www.joescat.com/mobile/shiparcade.html) |
-| kowalczyktomasz.atspace.com | Yes | [Link](http://kowalczyktomasz.atspace.com/old_games.html) |
-| javaonthebrain.com | Yes | [Link](http://www.javaonthebrain.com/java/graviton/about.html) |
-| vsresurs.narod.ru | Yes | [Link](http://vsresurs.narod.ru/Games/G_SE.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/vsresurs.narod.ru.zip) |
-| coreyshotsite2.tripod.com | Yes | [Link](https://coreyshotsite2.tripod.com/id23.html) |
+| set300.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20090511110500/http://www.set300.wz.cz/hry.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/set300.wz.cz-hry.zip) |
 | ngager.boom.ru | No (Archived) | [Link](https://web.archive.org/web/20090213111940/http://ngager.boom.ru/mophun.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/ngager.boom.ru.zip) |
 | mophungames.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20040801225744/http://mophungames.wz.cz/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/mophungames.wz.cz.zip) |
 | all4t310.private.pl | No (Archived) | [Link](https://web.archive.org/web/20061011225449/http://www.all4t310.private.pl/gry/caloscgry.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/all4t310.private.pl.zip) |
@@ -44,6 +36,14 @@
 | clubsonyericsson.com | No (Archived) | [Link](https://web.archive.org/web/20051204100232/http://www.clubsonyericsson.com/resources/games/t300/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/clubsonyericsson.com.zip) |
 | mobiledia.com | No (Archived) | [Link](https://web.archive.org/web/20031203212528/http://www.mobiledia.com/phones/t310/index.html) |
 | netova-plantaz.unas.cz | No (Archived) | [Link](https://web.archive.org/web/20121116113014/http://netova-plantaz.unas.cz/category/mophun-hry) |
+| m.wangchao.net.cn | Yes | [Link](http://m.wangchao.net.cn/it/scdetail_48618.html) |
+| forumponsel.mw.It | Yes | [Link](http://forumponsel.mw.lt/mophun) |
+| m.mobile01.com | Yes | [Link](https://m.mobile01.com/topicdetail.php?f=121&t=3712) |
+| joescat.com | Yes | [Link](http://www.joescat.com/mobile/shiparcade.html) |
+| kowalczyktomasz.atspace.com | Yes | [Link](http://kowalczyktomasz.atspace.com/old_games.html) |
+| javaonthebrain.com | Yes | [Link](http://www.javaonthebrain.com/java/graviton/about.html) |
+| vsresurs.narod.ru | Yes | [Link](http://vsresurs.narod.ru/Games/G_SE.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/vsresurs.narod.ru.zip) |
+| coreyshotsite2.tripod.com | Yes | [Link](https://coreyshotsite2.tripod.com/id23.html) |
 
 ## Resources for 3D mophun games
 
@@ -61,7 +61,7 @@
 
 * https://drive.google.com/file/d/1sqFdpwed_DJgKfMOFdx_JTiRV3c8UvSa/view
 
-— 4Mophum
+— 4Mophun
 
 * https://mega.nz/folder/M59gSSRQ#4_rFMoHhhUH1D-N7GuEGMA
 * https://4pda.to/forum/dl/post/51923/MOPHNUN2.zip
@@ -130,7 +130,7 @@
 * https://forum.motofan.ru/index.php?act=Attach&type=post&id=84679
 * https://4pda.to/forum/dl/post/21480081/mophunblazeemulator.sis
 
-★ Mophun/SiS/mpn
+★ .sis
 
 * http://dienpaulo.wap.sh/files/carmagedon%20mophune.sis
 * http://dienpaulo.wap.sh/files/davinci%20mophune.sis
@@ -158,8 +158,6 @@
 * https://forum.motofan.ru/index.php?act=Attach&type=post&id=83442
 * https://www.dertz.in/games/download-Lock-N-Load-2-3D-for-s60-3rd-free-symbian-mobile-game-17719.htm
 * https://www.dertz.in/games/download-Carmageddon-for-s60v3-free-symbian-mobile-game-18342.htm
-
-★ WWP
 
 * https://nokia-n81.at.ua/load/igry/sis/worms_world_party_mophun_games_symbian_9/7-1-0-190
 * http://www.mediafire.com/file/mw1f5j01992nb6b/WWP-MOD-1.0.1-s60v3.sis.7z/file
