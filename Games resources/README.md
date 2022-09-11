@@ -27,6 +27,7 @@
 | 8ung.at | No (Archived) | [Link](https://web.archive.org/web/20050407190910/http://www.8ung.at/is4u/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/8ung.at.zip) |
 | mophungames.com | No (Archived) | [Link](https://web.archive.org/web/20030423103452/http://www.mophungames.com/) |
 | t610elinks.tripod.com | No (Archived) | [Link](https://web.archive.org/web/20050211004130/https://t610elinks.tripod.com/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/t610elinks.tripod.com%20%5BP%5D.zip) Screenshots |
+| t610games.topcities | No (Archived) | [Link](https://web.archive.org/web/*/http://t610games.topcities.com/*) | No |
 | rudy211.nsf.pl | No (Archived) | [Link](https://web.archive.org/web/20050307183435/http://www.rudy211.nsf.pl/gry.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/rudy211.nsf.pl.zip) |
 | rowa-computer.com | No (Archived) | [Link](https://web.archive.org/web/20050208044510/http://www.rowa-computer.com/mophun/mophun.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/rowa-computer.com.zip) |
 | gemmyplanet.com | No (Archived) | [Link](https://web.archive.org/web/20080220111146/http://www.gemmyplanet.com/BrowseGame.jsp?gametype=All&phonemodel=2) |
@@ -56,6 +57,7 @@
 * https://cdn.discordapp.com/attachments/793085042020450324/806877509936480276/set300.wz.cz-hry.zip
 * https://cdn.discordapp.com/attachments/793085042020450324/806870782122655774/sonyericsson.paradisezone.net-mpn.zip
 * http://www.sonyericsson-world.com/topic/3828-mophun-games-collection-for-sony-ericsson-db1000-phones
+* https://cdn.discordapp.com/attachments/527607542868738074/795054723815309332/Seclub_Mophun_games.7z
 
 — CD file
 
@@ -187,6 +189,9 @@
 * http://funkmasters.szm.com/soft.htm
 * http://mobile-ericsson.narod.ru/mophun.html
 * https://www.eprice.com.tw/mobile/news/1022/1/
+* https://www.digitalfluff.net/
+* https://forum.motofan.ru/index.php?showtopic=72546
+* https://web.archive.org/web/20190127024624/http://www.xgrabber.narod.ru/games.html
 
 ### Dead sites (Archived)
 
