@@ -16,6 +16,7 @@
 | pcbanan.wz.cz | Yes | [Link](http://pcbanan.wz.cz/index.php) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/pcbanan.wz.cz.zip) |
 | t610.ru | Yes | [Link](http://www.t610.ru/games.php) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/t610.ru.zip) |
 | terewong.com | Yes | [Link](http://terewong.com/mytoys0ab12.htm#16) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/terewong.com.zip) |
+| kilgor-box.narod.ru | Yes | [Link](http://kilgor-box.narod.ru/morphun.html) | No |
 | set300.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20090511110500/http://www.set300.wz.cz/hry.html) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/set300.wz.cz-hry.zip) |
 | ngager.boom.ru | No (Archived) | [Link](https://web.archive.org/web/20090213111940/http://ngager.boom.ru/mophun.htm) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/ngager.boom.ru.zip) |
 | mophungames.wz.cz | No (Archived) | [Link](https://web.archive.org/web/20040801225744/http://mophungames.wz.cz/) | [Yes](https://github.com/ptnn0/Mophun/raw/main/Games/mophungames.wz.cz.zip) |
@@ -54,6 +55,7 @@
 * https://cdn.discordapp.com/attachments/793085042020450324/821807058999443466/mophun_2.5.4_tuxality_A2.zip
 * https://cdn.discordapp.com/attachments/793085042020450324/806877509936480276/set300.wz.cz-hry.zip
 * https://cdn.discordapp.com/attachments/793085042020450324/806870782122655774/sonyericsson.paradisezone.net-mpn.zip
+* http://www.sonyericsson-world.com/topic/3828-mophun-games-collection-for-sony-ericsson-db1000-phones
 
 — CD file
 
@@ -184,6 +186,7 @@
 * https://forum.motofan.ru/index.php?act=Attach&type=post&id=83446
 * http://funkmasters.szm.com/soft.htm
 * http://mobile-ericsson.narod.ru/mophun.html
+* https://www.eprice.com.tw/mobile/news/1022/1/
 
 ### Dead sites (Archived)
 
